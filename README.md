@@ -2,11 +2,15 @@
 
 Code for processing common crawl files
 
-https://commoncrawl.org/2022/08/august-2022-crawl-archive-now-available/
+https://www.commoncrawl.org/blog/november-december-2023-crawl-archive-now-available
+https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2023-may-sep-nov/index.html
 
 ```
-curl https://data.commoncrawl.org/crawl-data/CC-MAIN-2022-33/warc.paths.gz | gzip -d > paths.txt
+# url index paths
+curl https://data.commoncrawl.org/crawl-data/CC-MAIN-2023-50/cc-index-table.paths.gz | gzip -d > paths.txt
 
-# TODO loop through paths
-wget https://data.commoncrawl.org/crawl-data/CC-MAIN-2022-33/segments/1659882570651.49/warc/CC-MAIN-20220807150925-20220807180925-00000.warc.gz
 ```
+
+TODO 
+init analysis file on partial data
+neo4j graph data import

@@ -1,0 +1,6 @@
+crawlvenv
+**/__pycache__
+**/paths.txt
+**/*.parquet
+data_neo
+data_clickhouse
