@@ -1,24 +1,36 @@
 import clickhouse_driver
 import logging
 import os
-import pathlib
 import requests
 
-CONN_STR = "clickhouse://clickhouse:clickhouse@localhost:9000/internet"
+CLICKHOUSE_CONN_STR = "clickhouse://clickhouse:clickhouse@localhost:9000/internet"
 # adjust this path
 DIR = "/home/piotr/Documents/Github/common-crawl/data_clickhouse/user_files"
 
-CLICKHOUSE_SQL = """
-insert into sites 
-select 
-    url_host_name,
-    url_path,
-    url_host_tld,
-    url_host_registered_domain,
-    content_languages,
-    splitByChar(',', assumeNotNull(content_languages))[1]
-from file(%(file)s);
-"""
+QUERIES = {
+    "index": """
+        insert into internet.sites 
+        select 
+            url_host_name,
+            url_host_name_reversed,
+            url_path,
+            url_host_registered_domain,
+            url_host_tld,
+            content_languages,
+            splitByChar(',', assumeNotNull(content_languages))[1]
+        from file(%(file)s);
+    """,
+    "vertices": """
+        insert into internet.hosts
+        select *
+        from file(%(file)s, 'TSV', 'host_id UInt32, host_rev String', 'gz')
+    """,
+    "edges": """
+        insert into internet.host_links
+        select *
+        from file(%(file)s, 'TSV', 'from_host_id UInt32, to_host_id UInt32', 'gz')
+    """,
+}
 
 def _get_file(segment_path, file):
     """
@@ -32,18 +44,24 @@ def _get_file(segment_path, file):
                 f.write(chunk)
     return True
 
-def insert_urls(segment_path):
+def _gen_file_name(segment_path):
     """
-    Execute sql
+    Generate file name from file paths
     """
     file_name = segment_path.split("/")[-1]
     file_path = os.path.join(DIR, file_name)
+    return file_name, file_path
+
+def insert(segment_path, query_key):
+    """
+    Execute sql
+    """
+    file_name, file_path = _gen_file_name(segment_path)
     try:
         assert _get_file(segment_path, file_path), "Failed to download"
-        logging.info("Downloaded")
-        with clickhouse_driver.dbapi.connect(CONN_STR) as conn:
+        with clickhouse_driver.dbapi.connect(CLICKHOUSE_CONN_STR) as conn:
             cursor = conn.cursor()
-            cursor.execute(operation=CLICKHOUSE_SQL, parameters={"file": file_name})
+            cursor.execute(operation=QUERIES.get(query_key), parameters={"file": file_name})
     except Exception as e:
         logging.warning(f"Failed to insert {segment_path}; error: {str(e)}")
         raise e
