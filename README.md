@@ -45,10 +45,9 @@ cat queries/q3_lang_links.sql | clickhouse-client --database internet --user cli
 ```
 
 TODO
-queries into json based data
-plotly js html analysis terminal css style
 reinstall no neo4, service configs
 pip3 install clickhouse-driver neo4j rq redis requests
+table creation (q0) vs queries in separate sql scripts?
 
 ```
 python3 -m http.server

@@ -3,14 +3,14 @@ create table if not exists internet.host_lang_all
 (
     host String,
     lang String,
-    total UInt32,
+    count UInt32,
 )
 engine = MergeTree
 order by host as
 select
     host,
     lang,
-    count(*) as total
+    count(*) as count
 from sites
 where lang != ''
 group by host, lang;
@@ -46,29 +46,36 @@ left outer join
 (
     select
         host,
-        argMax(lang, total) as lang_main
+        argMax(lang, count) as lang_main
     from internet.host_lang_all
     group by host
 ) as m
 using host;
 
--- total = total number of pages on hosts having given main (primary) language
+-- count = count number of pages on hosts having given main (primary) language
 select
     lang_main,
     lang,
-    sites,
-    sum(sites) over (partition by lang_main) as total,
-    round(100 * sites / total, 2) as perc_sites
+    count,
+    rank() over (partition by lang_main order by count desc, lang desc) as rank,
+    sum(count) over (partition by lang_main) as total_lang_main,
+    round(100 * count / total_lang_main, 2) as perc_sites
 from 
 (
     select
         m.lang_main,
         l.lang,
-        sum(l.total) as sites
+        sum(l.count) as count
     from internet.host_lang_all l
     left join internet.host_lang_main m
     using host
     group by lang_main, lang
 )
-order by lang_main asc, perc_sites desc
-format JSON;
+order by lang_main asc, count desc;
+
+select *
+from xxx
+where rank <= 20
+format JSONColumns;
+
+-- TODO average language ranks

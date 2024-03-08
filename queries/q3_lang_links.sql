@@ -50,8 +50,11 @@ left outer join
     from host_lang_main
 ) l2
 on host_links_fake.to_host_id = l2.host_id
-group by l1.from_lang, l2.to_lang;
+group by l1.from_lang, l2.to_lang
+order by from lang asc, count desc;
 
 select * 
 from internet.lang_links
-format JSON;
+format JSONColumns;
+
+-- TODO from lang totals + percentages like previous queries, 
