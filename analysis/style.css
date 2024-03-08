@@ -1,0 +1,4 @@
+.container {
+    margin-top: calc(var(--page-width) / 8);
+    margin-bottom: calc(var(--page-width) / 8);
+}

@@ -1,0 +1,10349 @@
+{
+	"meta":
+	[
+		{
+			"name": "lang_main",
+			"type": "String"
+		},
+		{
+			"name": "lang",
+			"type": "String"
+		},
+		{
+			"name": "sites",
+			"type": "UInt64"
+		},
+		{
+			"name": "total",
+			"type": "UInt64"
+		},
+		{
+			"name": "perc_sites",
+			"type": "Float64"
+		}
+	],
+
+	"data":
+	[
+		{
+			"lang_main": "aar",
+			"lang": "aar",
+			"sites": "2",
+			"total": "2",
+			"perc_sites": 100
+		},
+		{
+			"lang_main": "afr",
+			"lang": "afr",
+			"sites": "1458",
+			"total": "1483",
+			"perc_sites": 98.31
+		},
+		{
+			"lang_main": "afr",
+			"lang": "eng",
+			"sites": "22",
+			"total": "1483",
+			"perc_sites": 1.48
+		},
+		{
+			"lang_main": "afr",
+			"lang": "deu",
+			"sites": "1",
+			"total": "1483",
+			"perc_sites": 0.07
+		},
+		{
+			"lang_main": "afr",
+			"lang": "lat",
+			"sites": "1",
+			"total": "1483",
+			"perc_sites": 0.07
+		},
+		{
+			"lang_main": "afr",
+			"lang": "nld",
+			"sites": "1",
+			"total": "1483",
+			"perc_sites": 0.07
+		},
+		{
+			"lang_main": "aka",
+			"lang": "aka",
+			"sites": "1",
+			"total": "1",
+			"perc_sites": 100
+		},
+		{
+			"lang_main": "amh",
+			"lang": "amh",
+			"sites": "73",
+			"total": "88",
+			"perc_sites": 82.95
+		},
+		{
+			"lang_main": "amh",
+			"lang": "eng",
+			"sites": "15",
+			"total": "88",
+			"perc_sites": 17.05
+		},
+		{
+			"lang_main": "ara",
+			"lang": "ara",
+			"sites": "161381",
+			"total": "168156",
+			"perc_sites": 95.97
+		},
+		{
+			"lang_main": "ara",
+			"lang": "eng",
+			"sites": "5766",
+			"total": "168156",
+			"perc_sites": 3.43
+		},
+		{
+			"lang_main": "ara",
+			"lang": "fas",
+			"sites": "247",
+			"total": "168156",
+			"perc_sites": 0.15
+		},
+		{
+			"lang_main": "ara",
+			"lang": "fra",
+			"sites": "184",
+			"total": "168156",
+			"perc_sites": 0.11
+		},
+		{
+			"lang_main": "ara",
+			"lang": "rus",
+			"sites": "123",
+			"total": "168156",
+			"perc_sites": 0.07
+		},
+		{
+			"lang_main": "ara",
+			"lang": "spa",
+			"sites": "99",
+			"total": "168156",
+			"perc_sites": 0.06
+		},
+		{
+			"lang_main": "ara",
+			"lang": "aze",
+			"sites": "62",
+			"total": "168156",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "ara",
+			"lang": "pol",
+			"sites": "48",
+			"total": "168156",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "ara",
+			"lang": "deu",
+			"sites": "53",
+			"total": "168156",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "ara",
+			"lang": "tur",
+			"sites": "58",
+			"total": "168156",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "ara",
+			"lang": "lat",
+			"sites": "40",
+			"total": "168156",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "ara",
+			"lang": "por",
+			"sites": "19",
+			"total": "168156",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "ara",
+			"lang": "bos",
+			"sites": "9",
+			"total": "168156",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "ara",
+			"lang": "ita",
+			"sites": "9",
+			"total": "168156",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "ara",
+			"lang": "ben",
+			"sites": "2",
+			"total": "168156",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ara",
+			"lang": "urd",
+			"sites": "2",
+			"total": "168156",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ara",
+			"lang": "nep",
+			"sites": "3",
+			"total": "168156",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ara",
+			"lang": "aar",
+			"sites": "1",
+			"total": "168156",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ara",
+			"lang": "dan",
+			"sites": "1",
+			"total": "168156",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ara",
+			"lang": "grn",
+			"sites": "1",
+			"total": "168156",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ara",
+			"lang": "swe",
+			"sites": "5",
+			"total": "168156",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ara",
+			"lang": "tir",
+			"sites": "1",
+			"total": "168156",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ara",
+			"lang": "khm",
+			"sites": "4",
+			"total": "168156",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ara",
+			"lang": "zho",
+			"sites": "4",
+			"total": "168156",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ara",
+			"lang": "heb",
+			"sites": "1",
+			"total": "168156",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ara",
+			"lang": "sin",
+			"sites": "1",
+			"total": "168156",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ara",
+			"lang": "som",
+			"sites": "5",
+			"total": "168156",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ara",
+			"lang": "tat",
+			"sites": "3",
+			"total": "168156",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ara",
+			"lang": "amh",
+			"sites": "1",
+			"total": "168156",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ara",
+			"lang": "ind",
+			"sites": "4",
+			"total": "168156",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ara",
+			"lang": "tam",
+			"sites": "3",
+			"total": "168156",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ara",
+			"lang": "hin",
+			"sites": "7",
+			"total": "168156",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ara",
+			"lang": "yor",
+			"sites": "1",
+			"total": "168156",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ara",
+			"lang": "fin",
+			"sites": "3",
+			"total": "168156",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ara",
+			"lang": "tha",
+			"sites": "3",
+			"total": "168156",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ara",
+			"lang": "tgk",
+			"sites": "2",
+			"total": "168156",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "asm",
+			"lang": "asm",
+			"sites": "1551",
+			"total": "1627",
+			"perc_sites": 95.33
+		},
+		{
+			"lang_main": "asm",
+			"lang": "eng",
+			"sites": "74",
+			"total": "1627",
+			"perc_sites": 4.55
+		},
+		{
+			"lang_main": "asm",
+			"lang": "rus",
+			"sites": "2",
+			"total": "1627",
+			"perc_sites": 0.12
+		},
+		{
+			"lang_main": "aze",
+			"lang": "aze",
+			"sites": "725",
+			"total": "1256",
+			"perc_sites": 57.72
+		},
+		{
+			"lang_main": "aze",
+			"lang": "eng",
+			"sites": "182",
+			"total": "1256",
+			"perc_sites": 14.49
+		},
+		{
+			"lang_main": "aze",
+			"lang": "rus",
+			"sites": "174",
+			"total": "1256",
+			"perc_sites": 13.85
+		},
+		{
+			"lang_main": "aze",
+			"lang": "tur",
+			"sites": "49",
+			"total": "1256",
+			"perc_sites": 3.9
+		},
+		{
+			"lang_main": "aze",
+			"lang": "pol",
+			"sites": "45",
+			"total": "1256",
+			"perc_sites": 3.58
+		},
+		{
+			"lang_main": "aze",
+			"lang": "spa",
+			"sites": "21",
+			"total": "1256",
+			"perc_sites": 1.67
+		},
+		{
+			"lang_main": "aze",
+			"lang": "fra",
+			"sites": "19",
+			"total": "1256",
+			"perc_sites": 1.51
+		},
+		{
+			"lang_main": "aze",
+			"lang": "ron",
+			"sites": "18",
+			"total": "1256",
+			"perc_sites": 1.43
+		},
+		{
+			"lang_main": "aze",
+			"lang": "deu",
+			"sites": "12",
+			"total": "1256",
+			"perc_sites": 0.96
+		},
+		{
+			"lang_main": "aze",
+			"lang": "msa",
+			"sites": "8",
+			"total": "1256",
+			"perc_sites": 0.64
+		},
+		{
+			"lang_main": "aze",
+			"lang": "ita",
+			"sites": "2",
+			"total": "1256",
+			"perc_sites": 0.16
+		},
+		{
+			"lang_main": "aze",
+			"lang": "ind",
+			"sites": "1",
+			"total": "1256",
+			"perc_sites": 0.08
+		},
+		{
+			"lang_main": "bel",
+			"lang": "bel",
+			"sites": "447",
+			"total": "450",
+			"perc_sites": 99.33
+		},
+		{
+			"lang_main": "bel",
+			"lang": "eng",
+			"sites": "3",
+			"total": "450",
+			"perc_sites": 0.67
+		},
+		{
+			"lang_main": "ben",
+			"lang": "ben",
+			"sites": "41157",
+			"total": "42629",
+			"perc_sites": 96.55
+		},
+		{
+			"lang_main": "ben",
+			"lang": "eng",
+			"sites": "1448",
+			"total": "42629",
+			"perc_sites": 3.4
+		},
+		{
+			"lang_main": "ben",
+			"lang": "deu",
+			"sites": "5",
+			"total": "42629",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "ben",
+			"lang": "lat",
+			"sites": "3",
+			"total": "42629",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "ben",
+			"lang": "rus",
+			"sites": "3",
+			"total": "42629",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "ben",
+			"lang": "ara",
+			"sites": "6",
+			"total": "42629",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "ben",
+			"lang": "bos",
+			"sites": "1",
+			"total": "42629",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ben",
+			"lang": "pol",
+			"sites": "1",
+			"total": "42629",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ben",
+			"lang": "hin",
+			"sites": "2",
+			"total": "42629",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ben",
+			"lang": "san",
+			"sites": "2",
+			"total": "42629",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ben",
+			"lang": "swe",
+			"sites": "1",
+			"total": "42629",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "bih",
+			"lang": "bih",
+			"sites": "151",
+			"total": "265",
+			"perc_sites": 56.98
+		},
+		{
+			"lang_main": "bih",
+			"lang": "hin",
+			"sites": "114",
+			"total": "265",
+			"perc_sites": 43.02
+		},
+		{
+			"lang_main": "bos",
+			"lang": "bos",
+			"sites": "12091",
+			"total": "12784",
+			"perc_sites": 94.58
+		},
+		{
+			"lang_main": "bos",
+			"lang": "eng",
+			"sites": "238",
+			"total": "12784",
+			"perc_sites": 1.86
+		},
+		{
+			"lang_main": "bos",
+			"lang": "srp",
+			"sites": "187",
+			"total": "12784",
+			"perc_sites": 1.46
+		},
+		{
+			"lang_main": "bos",
+			"lang": "hrv",
+			"sites": "143",
+			"total": "12784",
+			"perc_sites": 1.12
+		},
+		{
+			"lang_main": "bos",
+			"lang": "tur",
+			"sites": "35",
+			"total": "12784",
+			"perc_sites": 0.27
+		},
+		{
+			"lang_main": "bos",
+			"lang": "ara",
+			"sites": "16",
+			"total": "12784",
+			"perc_sites": 0.13
+		},
+		{
+			"lang_main": "bos",
+			"lang": "lat",
+			"sites": "10",
+			"total": "12784",
+			"perc_sites": 0.08
+		},
+		{
+			"lang_main": "bos",
+			"lang": "zho",
+			"sites": "6",
+			"total": "12784",
+			"perc_sites": 0.05
+		},
+		{
+			"lang_main": "bos",
+			"lang": "pol",
+			"sites": "6",
+			"total": "12784",
+			"perc_sites": 0.05
+		},
+		{
+			"lang_main": "bos",
+			"lang": "por",
+			"sites": "4",
+			"total": "12784",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "bos",
+			"lang": "ces",
+			"sites": "4",
+			"total": "12784",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "bos",
+			"lang": "ell",
+			"sites": "4",
+			"total": "12784",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "bos",
+			"lang": "nld",
+			"sites": "3",
+			"total": "12784",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "bos",
+			"lang": "tha",
+			"sites": "2",
+			"total": "12784",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "bos",
+			"lang": "hin",
+			"sites": "2",
+			"total": "12784",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "bos",
+			"lang": "kor",
+			"sites": "3",
+			"total": "12784",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "bos",
+			"lang": "deu",
+			"sites": "3",
+			"total": "12784",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "bos",
+			"lang": "jpn",
+			"sites": "2",
+			"total": "12784",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "bos",
+			"lang": "rus",
+			"sites": "2",
+			"total": "12784",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "bos",
+			"lang": "slk",
+			"sites": "3",
+			"total": "12784",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "bos",
+			"lang": "swe",
+			"sites": "3",
+			"total": "12784",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "bos",
+			"lang": "fra",
+			"sites": "3",
+			"total": "12784",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "bos",
+			"lang": "spa",
+			"sites": "3",
+			"total": "12784",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "bos",
+			"lang": "vie",
+			"sites": "3",
+			"total": "12784",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "bos",
+			"lang": "nor",
+			"sites": "3",
+			"total": "12784",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "bos",
+			"lang": "ukr",
+			"sites": "3",
+			"total": "12784",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "bos",
+			"lang": "msa",
+			"sites": "1",
+			"total": "12784",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "bos",
+			"lang": "ita",
+			"sites": "1",
+			"total": "12784",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "bre",
+			"lang": "bre",
+			"sites": "5",
+			"total": "9",
+			"perc_sites": 55.56
+		},
+		{
+			"lang_main": "bre",
+			"lang": "fra",
+			"sites": "3",
+			"total": "9",
+			"perc_sites": 33.33
+		},
+		{
+			"lang_main": "bre",
+			"lang": "eng",
+			"sites": "1",
+			"total": "9",
+			"perc_sites": 11.11
+		},
+		{
+			"lang_main": "bul",
+			"lang": "bul",
+			"sites": "17392",
+			"total": "18322",
+			"perc_sites": 94.92
+		},
+		{
+			"lang_main": "bul",
+			"lang": "eng",
+			"sites": "631",
+			"total": "18322",
+			"perc_sites": 3.44
+		},
+		{
+			"lang_main": "bul",
+			"lang": "rus",
+			"sites": "175",
+			"total": "18322",
+			"perc_sites": 0.96
+		},
+		{
+			"lang_main": "bul",
+			"lang": "mkd",
+			"sites": "33",
+			"total": "18322",
+			"perc_sites": 0.18
+		},
+		{
+			"lang_main": "bul",
+			"lang": "deu",
+			"sites": "23",
+			"total": "18322",
+			"perc_sites": 0.13
+		},
+		{
+			"lang_main": "bul",
+			"lang": "ron",
+			"sites": "17",
+			"total": "18322",
+			"perc_sites": 0.09
+		},
+		{
+			"lang_main": "bul",
+			"lang": "lat",
+			"sites": "13",
+			"total": "18322",
+			"perc_sites": 0.07
+		},
+		{
+			"lang_main": "bul",
+			"lang": "fra",
+			"sites": "10",
+			"total": "18322",
+			"perc_sites": 0.05
+		},
+		{
+			"lang_main": "bul",
+			"lang": "srp",
+			"sites": "7",
+			"total": "18322",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "bul",
+			"lang": "ell",
+			"sites": "6",
+			"total": "18322",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "bul",
+			"lang": "heb",
+			"sites": "5",
+			"total": "18322",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "bul",
+			"lang": "spa",
+			"sites": "3",
+			"total": "18322",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "bul",
+			"lang": "ukr",
+			"sites": "3",
+			"total": "18322",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "bul",
+			"lang": "tur",
+			"sites": "1",
+			"total": "18322",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "bul",
+			"lang": "ces",
+			"sites": "2",
+			"total": "18322",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "bul",
+			"lang": "pol",
+			"sites": "1",
+			"total": "18322",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "cat",
+			"lang": "cat",
+			"sites": "11668",
+			"total": "16351",
+			"perc_sites": 71.36
+		},
+		{
+			"lang_main": "cat",
+			"lang": "spa",
+			"sites": "2728",
+			"total": "16351",
+			"perc_sites": 16.68
+		},
+		{
+			"lang_main": "cat",
+			"lang": "eng",
+			"sites": "1734",
+			"total": "16351",
+			"perc_sites": 10.6
+		},
+		{
+			"lang_main": "cat",
+			"lang": "fra",
+			"sites": "138",
+			"total": "16351",
+			"perc_sites": 0.84
+		},
+		{
+			"lang_main": "cat",
+			"lang": "deu",
+			"sites": "57",
+			"total": "16351",
+			"perc_sites": 0.35
+		},
+		{
+			"lang_main": "cat",
+			"lang": "lat",
+			"sites": "14",
+			"total": "16351",
+			"perc_sites": 0.09
+		},
+		{
+			"lang_main": "cat",
+			"lang": "ita",
+			"sites": "4",
+			"total": "16351",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "cat",
+			"lang": "rus",
+			"sites": "4",
+			"total": "16351",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "cat",
+			"lang": "por",
+			"sites": "3",
+			"total": "16351",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "cat",
+			"lang": "oci",
+			"sites": "1",
+			"total": "16351",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "ces",
+			"lang": "ces",
+			"sites": "6788",
+			"total": "7814",
+			"perc_sites": 86.87
+		},
+		{
+			"lang_main": "ces",
+			"lang": "eng",
+			"sites": "386",
+			"total": "7814",
+			"perc_sites": 4.94
+		},
+		{
+			"lang_main": "ces",
+			"lang": "rus",
+			"sites": "295",
+			"total": "7814",
+			"perc_sites": 3.78
+		},
+		{
+			"lang_main": "ces",
+			"lang": "slk",
+			"sites": "201",
+			"total": "7814",
+			"perc_sites": 2.57
+		},
+		{
+			"lang_main": "ces",
+			"lang": "deu",
+			"sites": "90",
+			"total": "7814",
+			"perc_sites": 1.15
+		},
+		{
+			"lang_main": "ces",
+			"lang": "spa",
+			"sites": "11",
+			"total": "7814",
+			"perc_sites": 0.14
+		},
+		{
+			"lang_main": "ces",
+			"lang": "fra",
+			"sites": "9",
+			"total": "7814",
+			"perc_sites": 0.12
+		},
+		{
+			"lang_main": "ces",
+			"lang": "pol",
+			"sites": "8",
+			"total": "7814",
+			"perc_sites": 0.1
+		},
+		{
+			"lang_main": "ces",
+			"lang": "lav",
+			"sites": "6",
+			"total": "7814",
+			"perc_sites": 0.08
+		},
+		{
+			"lang_main": "ces",
+			"lang": "ukr",
+			"sites": "5",
+			"total": "7814",
+			"perc_sites": 0.06
+		},
+		{
+			"lang_main": "ces",
+			"lang": "ita",
+			"sites": "4",
+			"total": "7814",
+			"perc_sites": 0.05
+		},
+		{
+			"lang_main": "ces",
+			"lang": "lat",
+			"sites": "2",
+			"total": "7814",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "ces",
+			"lang": "lit",
+			"sites": "2",
+			"total": "7814",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "ces",
+			"lang": "hrv",
+			"sites": "2",
+			"total": "7814",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "ces",
+			"lang": "dan",
+			"sites": "1",
+			"total": "7814",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "ces",
+			"lang": "slv",
+			"sites": "1",
+			"total": "7814",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "ces",
+			"lang": "cat",
+			"sites": "1",
+			"total": "7814",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "ces",
+			"lang": "nld",
+			"sites": "1",
+			"total": "7814",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "ces",
+			"lang": "vie",
+			"sites": "1",
+			"total": "7814",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "cos",
+			"lang": "cos",
+			"sites": "4",
+			"total": "5",
+			"perc_sites": 80
+		},
+		{
+			"lang_main": "cos",
+			"lang": "eng",
+			"sites": "1",
+			"total": "5",
+			"perc_sites": 20
+		},
+		{
+			"lang_main": "cym",
+			"lang": "cym",
+			"sites": "28",
+			"total": "28",
+			"perc_sites": 100
+		},
+		{
+			"lang_main": "dan",
+			"lang": "dan",
+			"sites": "23833",
+			"total": "24976",
+			"perc_sites": 95.42
+		},
+		{
+			"lang_main": "dan",
+			"lang": "eng",
+			"sites": "683",
+			"total": "24976",
+			"perc_sites": 2.73
+		},
+		{
+			"lang_main": "dan",
+			"lang": "deu",
+			"sites": "174",
+			"total": "24976",
+			"perc_sites": 0.7
+		},
+		{
+			"lang_main": "dan",
+			"lang": "jpn",
+			"sites": "156",
+			"total": "24976",
+			"perc_sites": 0.62
+		},
+		{
+			"lang_main": "dan",
+			"lang": "ita",
+			"sites": "19",
+			"total": "24976",
+			"perc_sites": 0.08
+		},
+		{
+			"lang_main": "dan",
+			"lang": "lit",
+			"sites": "15",
+			"total": "24976",
+			"perc_sites": 0.06
+		},
+		{
+			"lang_main": "dan",
+			"lang": "lav",
+			"sites": "14",
+			"total": "24976",
+			"perc_sites": 0.06
+		},
+		{
+			"lang_main": "dan",
+			"lang": "fra",
+			"sites": "16",
+			"total": "24976",
+			"perc_sites": 0.06
+		},
+		{
+			"lang_main": "dan",
+			"lang": "nor",
+			"sites": "13",
+			"total": "24976",
+			"perc_sites": 0.05
+		},
+		{
+			"lang_main": "dan",
+			"lang": "swe",
+			"sites": "12",
+			"total": "24976",
+			"perc_sites": 0.05
+		},
+		{
+			"lang_main": "dan",
+			"lang": "slk",
+			"sites": "7",
+			"total": "24976",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "dan",
+			"lang": "lat",
+			"sites": "6",
+			"total": "24976",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "dan",
+			"lang": "pol",
+			"sites": "5",
+			"total": "24976",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "dan",
+			"lang": "spa",
+			"sites": "6",
+			"total": "24976",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "dan",
+			"lang": "nld",
+			"sites": "6",
+			"total": "24976",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "dan",
+			"lang": "tur",
+			"sites": "1",
+			"total": "24976",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "dan",
+			"lang": "sot",
+			"sites": "1",
+			"total": "24976",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "dan",
+			"lang": "ara",
+			"sites": "1",
+			"total": "24976",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "dan",
+			"lang": "ind",
+			"sites": "1",
+			"total": "24976",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "dan",
+			"lang": "srp",
+			"sites": "1",
+			"total": "24976",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "dan",
+			"lang": "sco",
+			"sites": "1",
+			"total": "24976",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "dan",
+			"lang": "hrv",
+			"sites": "1",
+			"total": "24976",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "dan",
+			"lang": "ces",
+			"sites": "1",
+			"total": "24976",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "dan",
+			"lang": "war",
+			"sites": "1",
+			"total": "24976",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "dan",
+			"lang": "hun",
+			"sites": "1",
+			"total": "24976",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "dan",
+			"lang": "fin",
+			"sites": "1",
+			"total": "24976",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "deu",
+			"lang": "deu",
+			"sites": "151536",
+			"total": "180047",
+			"perc_sites": 84.16
+		},
+		{
+			"lang_main": "deu",
+			"lang": "eng",
+			"sites": "15922",
+			"total": "180047",
+			"perc_sites": 8.84
+		},
+		{
+			"lang_main": "deu",
+			"lang": "ita",
+			"sites": "3155",
+			"total": "180047",
+			"perc_sites": 1.75
+		},
+		{
+			"lang_main": "deu",
+			"lang": "fra",
+			"sites": "2670",
+			"total": "180047",
+			"perc_sites": 1.48
+		},
+		{
+			"lang_main": "deu",
+			"lang": "spa",
+			"sites": "1609",
+			"total": "180047",
+			"perc_sites": 0.89
+		},
+		{
+			"lang_main": "deu",
+			"lang": "nld",
+			"sites": "1312",
+			"total": "180047",
+			"perc_sites": 0.73
+		},
+		{
+			"lang_main": "deu",
+			"lang": "ces",
+			"sites": "442",
+			"total": "180047",
+			"perc_sites": 0.25
+		},
+		{
+			"lang_main": "deu",
+			"lang": "hun",
+			"sites": "396",
+			"total": "180047",
+			"perc_sites": 0.22
+		},
+		{
+			"lang_main": "deu",
+			"lang": "dan",
+			"sites": "379",
+			"total": "180047",
+			"perc_sites": 0.21
+		},
+		{
+			"lang_main": "deu",
+			"lang": "fas",
+			"sites": "362",
+			"total": "180047",
+			"perc_sites": 0.2
+		},
+		{
+			"lang_main": "deu",
+			"lang": "pol",
+			"sites": "339",
+			"total": "180047",
+			"perc_sites": 0.19
+		},
+		{
+			"lang_main": "deu",
+			"lang": "nor",
+			"sites": "327",
+			"total": "180047",
+			"perc_sites": 0.18
+		},
+		{
+			"lang_main": "deu",
+			"lang": "por",
+			"sites": "221",
+			"total": "180047",
+			"perc_sites": 0.12
+		},
+		{
+			"lang_main": "deu",
+			"lang": "rus",
+			"sites": "224",
+			"total": "180047",
+			"perc_sites": 0.12
+		},
+		{
+			"lang_main": "deu",
+			"lang": "tur",
+			"sites": "219",
+			"total": "180047",
+			"perc_sites": 0.12
+		},
+		{
+			"lang_main": "deu",
+			"lang": "hrv",
+			"sites": "201",
+			"total": "180047",
+			"perc_sites": 0.11
+		},
+		{
+			"lang_main": "deu",
+			"lang": "swe",
+			"sites": "141",
+			"total": "180047",
+			"perc_sites": 0.08
+		},
+		{
+			"lang_main": "deu",
+			"lang": "lat",
+			"sites": "146",
+			"total": "180047",
+			"perc_sites": 0.08
+		},
+		{
+			"lang_main": "deu",
+			"lang": "ukr",
+			"sites": "48",
+			"total": "180047",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "deu",
+			"lang": "ron",
+			"sites": "54",
+			"total": "180047",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "deu",
+			"lang": "est",
+			"sites": "40",
+			"total": "180047",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "deu",
+			"lang": "ara",
+			"sites": "40",
+			"total": "180047",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "deu",
+			"lang": "tgl",
+			"sites": "31",
+			"total": "180047",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "deu",
+			"lang": "tha",
+			"sites": "33",
+			"total": "180047",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "deu",
+			"lang": "ind",
+			"sites": "39",
+			"total": "180047",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "deu",
+			"lang": "vie",
+			"sites": "33",
+			"total": "180047",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "deu",
+			"lang": "mon",
+			"sites": "29",
+			"total": "180047",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "deu",
+			"lang": "jpn",
+			"sites": "24",
+			"total": "180047",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "deu",
+			"lang": "fin",
+			"sites": "17",
+			"total": "180047",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "deu",
+			"lang": "slk",
+			"sites": "10",
+			"total": "180047",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "deu",
+			"lang": "nno",
+			"sites": "2",
+			"total": "180047",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "deu",
+			"lang": "roh",
+			"sites": "5",
+			"total": "180047",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "deu",
+			"lang": "srp",
+			"sites": "8",
+			"total": "180047",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "deu",
+			"lang": "cat",
+			"sites": "3",
+			"total": "180047",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "deu",
+			"lang": "war",
+			"sites": "2",
+			"total": "180047",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "deu",
+			"lang": "slv",
+			"sites": "1",
+			"total": "180047",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "deu",
+			"lang": "zho",
+			"sites": "7",
+			"total": "180047",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "deu",
+			"lang": "glv",
+			"sites": "1",
+			"total": "180047",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "deu",
+			"lang": "bos",
+			"sites": "3",
+			"total": "180047",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "deu",
+			"lang": "lav",
+			"sites": "6",
+			"total": "180047",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "deu",
+			"lang": "lit",
+			"sites": "5",
+			"total": "180047",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "deu",
+			"lang": "aar",
+			"sites": "1",
+			"total": "180047",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "deu",
+			"lang": "uzb",
+			"sites": "1",
+			"total": "180047",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "deu",
+			"lang": "haw",
+			"sites": "1",
+			"total": "180047",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "deu",
+			"lang": "ell",
+			"sites": "1",
+			"total": "180047",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "deu",
+			"lang": "cos",
+			"sites": "1",
+			"total": "180047",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ell",
+			"lang": "ell",
+			"sites": "16328",
+			"total": "18601",
+			"perc_sites": 87.78
+		},
+		{
+			"lang_main": "ell",
+			"lang": "eng",
+			"sites": "1227",
+			"total": "18601",
+			"perc_sites": 6.6
+		},
+		{
+			"lang_main": "ell",
+			"lang": "fra",
+			"sites": "190",
+			"total": "18601",
+			"perc_sites": 1.02
+		},
+		{
+			"lang_main": "ell",
+			"lang": "ita",
+			"sites": "183",
+			"total": "18601",
+			"perc_sites": 0.98
+		},
+		{
+			"lang_main": "ell",
+			"lang": "rus",
+			"sites": "179",
+			"total": "18601",
+			"perc_sites": 0.96
+		},
+		{
+			"lang_main": "ell",
+			"lang": "deu",
+			"sites": "145",
+			"total": "18601",
+			"perc_sites": 0.78
+		},
+		{
+			"lang_main": "ell",
+			"lang": "zho",
+			"sites": "136",
+			"total": "18601",
+			"perc_sites": 0.73
+		},
+		{
+			"lang_main": "ell",
+			"lang": "hye",
+			"sites": "119",
+			"total": "18601",
+			"perc_sites": 0.64
+		},
+		{
+			"lang_main": "ell",
+			"lang": "por",
+			"sites": "35",
+			"total": "18601",
+			"perc_sites": 0.19
+		},
+		{
+			"lang_main": "ell",
+			"lang": "lat",
+			"sites": "16",
+			"total": "18601",
+			"perc_sites": 0.09
+		},
+		{
+			"lang_main": "ell",
+			"lang": "lit",
+			"sites": "11",
+			"total": "18601",
+			"perc_sites": 0.06
+		},
+		{
+			"lang_main": "ell",
+			"lang": "div",
+			"sites": "8",
+			"total": "18601",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "ell",
+			"lang": "kor",
+			"sites": "7",
+			"total": "18601",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "ell",
+			"lang": "glg",
+			"sites": "6",
+			"total": "18601",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "ell",
+			"lang": "nld",
+			"sites": "2",
+			"total": "18601",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "ell",
+			"lang": "syr",
+			"sites": "2",
+			"total": "18601",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "ell",
+			"lang": "hrv",
+			"sites": "1",
+			"total": "18601",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "ell",
+			"lang": "ron",
+			"sites": "1",
+			"total": "18601",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "ell",
+			"lang": "tur",
+			"sites": "2",
+			"total": "18601",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "ell",
+			"lang": "mkd",
+			"sites": "1",
+			"total": "18601",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "ell",
+			"lang": "jpn",
+			"sites": "1",
+			"total": "18601",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "ell",
+			"lang": "bul",
+			"sites": "1",
+			"total": "18601",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "eng",
+			"lang": "eng",
+			"sites": "7583892",
+			"total": "7962342",
+			"perc_sites": 95.25
+		},
+		{
+			"lang_main": "eng",
+			"lang": "spa",
+			"sites": "53288",
+			"total": "7962342",
+			"perc_sites": 0.67
+		},
+		{
+			"lang_main": "eng",
+			"lang": "fra",
+			"sites": "48314",
+			"total": "7962342",
+			"perc_sites": 0.61
+		},
+		{
+			"lang_main": "eng",
+			"lang": "deu",
+			"sites": "43133",
+			"total": "7962342",
+			"perc_sites": 0.54
+		},
+		{
+			"lang_main": "eng",
+			"lang": "ita",
+			"sites": "20658",
+			"total": "7962342",
+			"perc_sites": 0.26
+		},
+		{
+			"lang_main": "eng",
+			"lang": "zho",
+			"sites": "18732",
+			"total": "7962342",
+			"perc_sites": 0.24
+		},
+		{
+			"lang_main": "eng",
+			"lang": "jpn",
+			"sites": "18949",
+			"total": "7962342",
+			"perc_sites": 0.24
+		},
+		{
+			"lang_main": "eng",
+			"lang": "kor",
+			"sites": "15120",
+			"total": "7962342",
+			"perc_sites": 0.19
+		},
+		{
+			"lang_main": "eng",
+			"lang": "ara",
+			"sites": "14050",
+			"total": "7962342",
+			"perc_sites": 0.18
+		},
+		{
+			"lang_main": "eng",
+			"lang": "ind",
+			"sites": "13057",
+			"total": "7962342",
+			"perc_sites": 0.16
+		},
+		{
+			"lang_main": "eng",
+			"lang": "por",
+			"sites": "10812",
+			"total": "7962342",
+			"perc_sites": 0.14
+		},
+		{
+			"lang_main": "eng",
+			"lang": "lat",
+			"sites": "10557",
+			"total": "7962342",
+			"perc_sites": 0.13
+		},
+		{
+			"lang_main": "eng",
+			"lang": "rus",
+			"sites": "9810",
+			"total": "7962342",
+			"perc_sites": 0.12
+		},
+		{
+			"lang_main": "eng",
+			"lang": "nld",
+			"sites": "9077",
+			"total": "7962342",
+			"perc_sites": 0.11
+		},
+		{
+			"lang_main": "eng",
+			"lang": "hin",
+			"sites": "7737",
+			"total": "7962342",
+			"perc_sites": 0.1
+		},
+		{
+			"lang_main": "eng",
+			"lang": "tur",
+			"sites": "8167",
+			"total": "7962342",
+			"perc_sites": 0.1
+		},
+		{
+			"lang_main": "eng",
+			"lang": "pol",
+			"sites": "6203",
+			"total": "7962342",
+			"perc_sites": 0.08
+		},
+		{
+			"lang_main": "eng",
+			"lang": "vie",
+			"sites": "5293",
+			"total": "7962342",
+			"perc_sites": 0.07
+		},
+		{
+			"lang_main": "eng",
+			"lang": "swe",
+			"sites": "4934",
+			"total": "7962342",
+			"perc_sites": 0.06
+		},
+		{
+			"lang_main": "eng",
+			"lang": "tha",
+			"sites": "4501",
+			"total": "7962342",
+			"perc_sites": 0.06
+		},
+		{
+			"lang_main": "eng",
+			"lang": "dan",
+			"sites": "3710",
+			"total": "7962342",
+			"perc_sites": 0.05
+		},
+		{
+			"lang_main": "eng",
+			"lang": "fin",
+			"sites": "4205",
+			"total": "7962342",
+			"perc_sites": 0.05
+		},
+		{
+			"lang_main": "eng",
+			"lang": "san",
+			"sites": "3207",
+			"total": "7962342",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "eng",
+			"lang": "ell",
+			"sites": "2905",
+			"total": "7962342",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "eng",
+			"lang": "nor",
+			"sites": "2848",
+			"total": "7962342",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "eng",
+			"lang": "msa",
+			"sites": "2764",
+			"total": "7962342",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "eng",
+			"lang": "mkd",
+			"sites": "1469",
+			"total": "7962342",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "eng",
+			"lang": "guj",
+			"sites": "1395",
+			"total": "7962342",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "eng",
+			"lang": "ces",
+			"sites": "1274",
+			"total": "7962342",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "eng",
+			"lang": "heb",
+			"sites": "1566",
+			"total": "7962342",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "eng",
+			"lang": "ron",
+			"sites": "1533",
+			"total": "7962342",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "eng",
+			"lang": "bul",
+			"sites": "1293",
+			"total": "7962342",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "eng",
+			"lang": "ben",
+			"sites": "1437",
+			"total": "7962342",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "eng",
+			"lang": "cat",
+			"sites": "1812",
+			"total": "7962342",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "eng",
+			"lang": "hrv",
+			"sites": "1885",
+			"total": "7962342",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "eng",
+			"lang": "ukr",
+			"sites": "1701",
+			"total": "7962342",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "eng",
+			"lang": "tam",
+			"sites": "894",
+			"total": "7962342",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "eng",
+			"lang": "slk",
+			"sites": "690",
+			"total": "7962342",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "eng",
+			"lang": "bos",
+			"sites": "434",
+			"total": "7962342",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "eng",
+			"lang": "aze",
+			"sites": "800",
+			"total": "7962342",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "eng",
+			"lang": "lit",
+			"sites": "895",
+			"total": "7962342",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "eng",
+			"lang": "sqi",
+			"sites": "406",
+			"total": "7962342",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "eng",
+			"lang": "lav",
+			"sites": "931",
+			"total": "7962342",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "eng",
+			"lang": "tel",
+			"sites": "442",
+			"total": "7962342",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "eng",
+			"lang": "nep",
+			"sites": "611",
+			"total": "7962342",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "eng",
+			"lang": "mlt",
+			"sites": "445",
+			"total": "7962342",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "eng",
+			"lang": "mar",
+			"sites": "521",
+			"total": "7962342",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "eng",
+			"lang": "slv",
+			"sites": "1151",
+			"total": "7962342",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "eng",
+			"lang": "fas",
+			"sites": "799",
+			"total": "7962342",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "eng",
+			"lang": "srp",
+			"sites": "964",
+			"total": "7962342",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "eng",
+			"lang": "est",
+			"sites": "601",
+			"total": "7962342",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "eng",
+			"lang": "mya",
+			"sites": "415",
+			"total": "7962342",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "eng",
+			"lang": "hun",
+			"sites": "731",
+			"total": "7962342",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "eng",
+			"lang": "smo",
+			"sites": "515",
+			"total": "7962342",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "eng",
+			"lang": "glg",
+			"sites": "892",
+			"total": "7962342",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "eng",
+			"lang": "syr",
+			"sites": "1",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "ina",
+			"sites": "7",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "gle",
+			"sites": "97",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "ven",
+			"sites": "4",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "jav",
+			"sites": "114",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "bih",
+			"sites": "9",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "kha",
+			"sites": "3",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "mri",
+			"sites": "112",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "bre",
+			"sites": "4",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "mfe",
+			"sites": "1",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "ltz",
+			"sites": "128",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "eus",
+			"sites": "189",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "run",
+			"sites": "2",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "glv",
+			"sites": "17",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "mon",
+			"sites": "143",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "grn",
+			"sites": "26",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "tso",
+			"sites": "1",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "aym",
+			"sites": "2",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "ile",
+			"sites": "34",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "nau",
+			"sites": "1",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "lao",
+			"sites": "133",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "kin",
+			"sites": "16",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "nya",
+			"sites": "73",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "tsn",
+			"sites": "1",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "kur",
+			"sites": "4",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "kan",
+			"sites": "263",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "ibo",
+			"sites": "86",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "xho",
+			"sites": "110",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "fao",
+			"sites": "3",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "sco",
+			"sites": "28",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "urd",
+			"sites": "245",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "nno",
+			"sites": "40",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "asm",
+			"sites": "5",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "zul",
+			"sites": "79",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "sun",
+			"sites": "97",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "roh",
+			"sites": "17",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "tgl",
+			"sites": "379",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "hau",
+			"sites": "97",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "epo",
+			"sites": "149",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "snd",
+			"sites": "73",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "ton",
+			"sites": "3",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "oci",
+			"sites": "8",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "mal",
+			"sites": "343",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "mlg",
+			"sites": "124",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "bis",
+			"sites": "2",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "yor",
+			"sites": "105",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "hat",
+			"sites": "111",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "que",
+			"sites": "4",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "cos",
+			"sites": "382",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "aka",
+			"sites": "1",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "haw",
+			"sites": "126",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "dzo",
+			"sites": "3",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "tir",
+			"sites": "2",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "afr",
+			"sites": "96",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "orm",
+			"sites": "3",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "kir",
+			"sites": "127",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "yid",
+			"sites": "169",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "som",
+			"sites": "386",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "ceb",
+			"sites": "94",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "swa",
+			"sites": "143",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "pan",
+			"sites": "107",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "hmn",
+			"sites": "96",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "kal",
+			"sites": "1",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "pus",
+			"sites": "239",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "uig",
+			"sites": "8",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "gla",
+			"sites": "84",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "tuk",
+			"sites": "15",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "vol",
+			"sites": "5",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "uzb",
+			"sites": "179",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "bak",
+			"sites": "1",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "sna",
+			"sites": "70",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "kaz",
+			"sites": "310",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "khm",
+			"sites": "337",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "bod",
+			"sites": "68",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "aar",
+			"sites": "5",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "isl",
+			"sites": "98",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "ori",
+			"sites": "23",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "sot",
+			"sites": "107",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "lug",
+			"sites": "2",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "crs",
+			"sites": "2",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "bel",
+			"sites": "122",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "ssw",
+			"sites": "1",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "fij",
+			"sites": "13",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "tgk",
+			"sites": "69",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "cym",
+			"sites": "252",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "sin",
+			"sites": "165",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "war",
+			"sites": "16",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "fry",
+			"sites": "85",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "tat",
+			"sites": "10",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "hye",
+			"sites": "160",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "amh",
+			"sites": "123",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "chr",
+			"sites": "1",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "kat",
+			"sites": "112",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "eng",
+			"lang": "lin",
+			"sites": "6",
+			"total": "7962342",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "epo",
+			"lang": "epo",
+			"sites": "38",
+			"total": "38",
+			"perc_sites": 100
+		},
+		{
+			"lang_main": "est",
+			"lang": "est",
+			"sites": "1146",
+			"total": "1234",
+			"perc_sites": 92.87
+		},
+		{
+			"lang_main": "est",
+			"lang": "eng",
+			"sites": "75",
+			"total": "1234",
+			"perc_sites": 6.08
+		},
+		{
+			"lang_main": "est",
+			"lang": "deu",
+			"sites": "10",
+			"total": "1234",
+			"perc_sites": 0.81
+		},
+		{
+			"lang_main": "est",
+			"lang": "rus",
+			"sites": "3",
+			"total": "1234",
+			"perc_sites": 0.24
+		},
+		{
+			"lang_main": "eus",
+			"lang": "eus",
+			"sites": "1315",
+			"total": "1480",
+			"perc_sites": 88.85
+		},
+		{
+			"lang_main": "eus",
+			"lang": "spa",
+			"sites": "91",
+			"total": "1480",
+			"perc_sites": 6.15
+		},
+		{
+			"lang_main": "eus",
+			"lang": "eng",
+			"sites": "45",
+			"total": "1480",
+			"perc_sites": 3.04
+		},
+		{
+			"lang_main": "eus",
+			"lang": "fra",
+			"sites": "20",
+			"total": "1480",
+			"perc_sites": 1.35
+		},
+		{
+			"lang_main": "eus",
+			"lang": "rus",
+			"sites": "9",
+			"total": "1480",
+			"perc_sites": 0.61
+		},
+		{
+			"lang_main": "fao",
+			"lang": "fao",
+			"sites": "1",
+			"total": "1",
+			"perc_sites": 100
+		},
+		{
+			"lang_main": "fas",
+			"lang": "fas",
+			"sites": "227561",
+			"total": "230352",
+			"perc_sites": 98.79
+		},
+		{
+			"lang_main": "fas",
+			"lang": "eng",
+			"sites": "2142",
+			"total": "230352",
+			"perc_sites": 0.93
+		},
+		{
+			"lang_main": "fas",
+			"lang": "ara",
+			"sites": "223",
+			"total": "230352",
+			"perc_sites": 0.1
+		},
+		{
+			"lang_main": "fas",
+			"lang": "tur",
+			"sites": "107",
+			"total": "230352",
+			"perc_sites": 0.05
+		},
+		{
+			"lang_main": "fas",
+			"lang": "lat",
+			"sites": "112",
+			"total": "230352",
+			"perc_sites": 0.05
+		},
+		{
+			"lang_main": "fas",
+			"lang": "rus",
+			"sites": "76",
+			"total": "230352",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "fas",
+			"lang": "ind",
+			"sites": "34",
+			"total": "230352",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "fas",
+			"lang": "pus",
+			"sites": "18",
+			"total": "230352",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "fas",
+			"lang": "urd",
+			"sites": "23",
+			"total": "230352",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "fas",
+			"lang": "zho",
+			"sites": "26",
+			"total": "230352",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "fas",
+			"lang": "por",
+			"sites": "4",
+			"total": "230352",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fas",
+			"lang": "ukr",
+			"sites": "1",
+			"total": "230352",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fas",
+			"lang": "aze",
+			"sites": "4",
+			"total": "230352",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fas",
+			"lang": "heb",
+			"sites": "3",
+			"total": "230352",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fas",
+			"lang": "fra",
+			"sites": "1",
+			"total": "230352",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fas",
+			"lang": "spa",
+			"sites": "3",
+			"total": "230352",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fas",
+			"lang": "dan",
+			"sites": "1",
+			"total": "230352",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fas",
+			"lang": "deu",
+			"sites": "2",
+			"total": "230352",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fas",
+			"lang": "zul",
+			"sites": "9",
+			"total": "230352",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fas",
+			"lang": "uzb",
+			"sites": "1",
+			"total": "230352",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fas",
+			"lang": "hun",
+			"sites": "1",
+			"total": "230352",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fij",
+			"lang": "fij",
+			"sites": "41",
+			"total": "45",
+			"perc_sites": 91.11
+		},
+		{
+			"lang_main": "fij",
+			"lang": "eng",
+			"sites": "2",
+			"total": "45",
+			"perc_sites": 4.44
+		},
+		{
+			"lang_main": "fij",
+			"lang": "spa",
+			"sites": "2",
+			"total": "45",
+			"perc_sites": 4.44
+		},
+		{
+			"lang_main": "fin",
+			"lang": "fin",
+			"sites": "23262",
+			"total": "25813",
+			"perc_sites": 90.12
+		},
+		{
+			"lang_main": "fin",
+			"lang": "eng",
+			"sites": "2102",
+			"total": "25813",
+			"perc_sites": 8.14
+		},
+		{
+			"lang_main": "fin",
+			"lang": "swe",
+			"sites": "222",
+			"total": "25813",
+			"perc_sites": 0.86
+		},
+		{
+			"lang_main": "fin",
+			"lang": "deu",
+			"sites": "82",
+			"total": "25813",
+			"perc_sites": 0.32
+		},
+		{
+			"lang_main": "fin",
+			"lang": "nld",
+			"sites": "34",
+			"total": "25813",
+			"perc_sites": 0.13
+		},
+		{
+			"lang_main": "fin",
+			"lang": "nor",
+			"sites": "21",
+			"total": "25813",
+			"perc_sites": 0.08
+		},
+		{
+			"lang_main": "fin",
+			"lang": "spa",
+			"sites": "19",
+			"total": "25813",
+			"perc_sites": 0.07
+		},
+		{
+			"lang_main": "fin",
+			"lang": "ell",
+			"sites": "18",
+			"total": "25813",
+			"perc_sites": 0.07
+		},
+		{
+			"lang_main": "fin",
+			"lang": "dan",
+			"sites": "16",
+			"total": "25813",
+			"perc_sites": 0.06
+		},
+		{
+			"lang_main": "fin",
+			"lang": "rus",
+			"sites": "12",
+			"total": "25813",
+			"perc_sites": 0.05
+		},
+		{
+			"lang_main": "fin",
+			"lang": "lit",
+			"sites": "10",
+			"total": "25813",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "fin",
+			"lang": "est",
+			"sites": "6",
+			"total": "25813",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "fin",
+			"lang": "lat",
+			"sites": "5",
+			"total": "25813",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "fin",
+			"lang": "fra",
+			"sites": "3",
+			"total": "25813",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "fin",
+			"lang": "ara",
+			"sites": "1",
+			"total": "25813",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fra",
+			"lang": "fra",
+			"sites": "486447",
+			"total": "528658",
+			"perc_sites": 92.02
+		},
+		{
+			"lang_main": "fra",
+			"lang": "eng",
+			"sites": "31154",
+			"total": "528658",
+			"perc_sites": 5.89
+		},
+		{
+			"lang_main": "fra",
+			"lang": "spa",
+			"sites": "2710",
+			"total": "528658",
+			"perc_sites": 0.51
+		},
+		{
+			"lang_main": "fra",
+			"lang": "ita",
+			"sites": "2364",
+			"total": "528658",
+			"perc_sites": 0.45
+		},
+		{
+			"lang_main": "fra",
+			"lang": "deu",
+			"sites": "1922",
+			"total": "528658",
+			"perc_sites": 0.36
+		},
+		{
+			"lang_main": "fra",
+			"lang": "nld",
+			"sites": "957",
+			"total": "528658",
+			"perc_sites": 0.18
+		},
+		{
+			"lang_main": "fra",
+			"lang": "lat",
+			"sites": "701",
+			"total": "528658",
+			"perc_sites": 0.13
+		},
+		{
+			"lang_main": "fra",
+			"lang": "por",
+			"sites": "650",
+			"total": "528658",
+			"perc_sites": 0.12
+		},
+		{
+			"lang_main": "fra",
+			"lang": "ara",
+			"sites": "424",
+			"total": "528658",
+			"perc_sites": 0.08
+		},
+		{
+			"lang_main": "fra",
+			"lang": "tur",
+			"sites": "316",
+			"total": "528658",
+			"perc_sites": 0.06
+		},
+		{
+			"lang_main": "fra",
+			"lang": "jpn",
+			"sites": "276",
+			"total": "528658",
+			"perc_sites": 0.05
+		},
+		{
+			"lang_main": "fra",
+			"lang": "rus",
+			"sites": "215",
+			"total": "528658",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "fra",
+			"lang": "ces",
+			"sites": "93",
+			"total": "528658",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "fra",
+			"lang": "swe",
+			"sites": "27",
+			"total": "528658",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "fra",
+			"lang": "pol",
+			"sites": "40",
+			"total": "528658",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "fra",
+			"lang": "zho",
+			"sites": "60",
+			"total": "528658",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "fra",
+			"lang": "oci",
+			"sites": "33",
+			"total": "528658",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "fra",
+			"lang": "dan",
+			"sites": "55",
+			"total": "528658",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "fra",
+			"lang": "kor",
+			"sites": "47",
+			"total": "528658",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "fra",
+			"lang": "ron",
+			"sites": "4",
+			"total": "528658",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fra",
+			"lang": "hrv",
+			"sites": "1",
+			"total": "528658",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fra",
+			"lang": "ile",
+			"sites": "1",
+			"total": "528658",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fra",
+			"lang": "glg",
+			"sites": "3",
+			"total": "528658",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fra",
+			"lang": "iku",
+			"sites": "2",
+			"total": "528658",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fra",
+			"lang": "ina",
+			"sites": "1",
+			"total": "528658",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fra",
+			"lang": "bos",
+			"sites": "1",
+			"total": "528658",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fra",
+			"lang": "msa",
+			"sites": "2",
+			"total": "528658",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fra",
+			"lang": "bre",
+			"sites": "12",
+			"total": "528658",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fra",
+			"lang": "vie",
+			"sites": "7",
+			"total": "528658",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fra",
+			"lang": "fin",
+			"sites": "10",
+			"total": "528658",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fra",
+			"lang": "cat",
+			"sites": "19",
+			"total": "528658",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fra",
+			"lang": "eus",
+			"sites": "4",
+			"total": "528658",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fra",
+			"lang": "ltz",
+			"sites": "2",
+			"total": "528658",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fra",
+			"lang": "mri",
+			"sites": "6",
+			"total": "528658",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fra",
+			"lang": "gle",
+			"sites": "1",
+			"total": "528658",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fra",
+			"lang": "haw",
+			"sites": "1",
+			"total": "528658",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fra",
+			"lang": "tha",
+			"sites": "1",
+			"total": "528658",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fra",
+			"lang": "nno",
+			"sites": "1",
+			"total": "528658",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fra",
+			"lang": "roh",
+			"sites": "1",
+			"total": "528658",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fra",
+			"lang": "sun",
+			"sites": "1",
+			"total": "528658",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fra",
+			"lang": "cos",
+			"sites": "18",
+			"total": "528658",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fra",
+			"lang": "slk",
+			"sites": "2",
+			"total": "528658",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fra",
+			"lang": "ukr",
+			"sites": "6",
+			"total": "528658",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fra",
+			"lang": "srp",
+			"sites": "2",
+			"total": "528658",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fra",
+			"lang": "ssw",
+			"sites": "1",
+			"total": "528658",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fra",
+			"lang": "ind",
+			"sites": "4",
+			"total": "528658",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fra",
+			"lang": "war",
+			"sites": "10",
+			"total": "528658",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fra",
+			"lang": "est",
+			"sites": "2",
+			"total": "528658",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fra",
+			"lang": "hun",
+			"sites": "3",
+			"total": "528658",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fra",
+			"lang": "hin",
+			"sites": "2",
+			"total": "528658",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fra",
+			"lang": "lav",
+			"sites": "4",
+			"total": "528658",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fra",
+			"lang": "aar",
+			"sites": "2",
+			"total": "528658",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fra",
+			"lang": "nor",
+			"sites": "15",
+			"total": "528658",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fra",
+			"lang": "lit",
+			"sites": "3",
+			"total": "528658",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fra",
+			"lang": "ell",
+			"sites": "12",
+			"total": "528658",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "fry",
+			"lang": "fry",
+			"sites": "14",
+			"total": "14",
+			"perc_sites": 100
+		},
+		{
+			"lang_main": "gla",
+			"lang": "gla",
+			"sites": "30",
+			"total": "36",
+			"perc_sites": 83.33
+		},
+		{
+			"lang_main": "gla",
+			"lang": "eng",
+			"sites": "3",
+			"total": "36",
+			"perc_sites": 8.33
+		},
+		{
+			"lang_main": "gla",
+			"lang": "lat",
+			"sites": "3",
+			"total": "36",
+			"perc_sites": 8.33
+		},
+		{
+			"lang_main": "gle",
+			"lang": "gle",
+			"sites": "81",
+			"total": "83",
+			"perc_sites": 97.59
+		},
+		{
+			"lang_main": "gle",
+			"lang": "eng",
+			"sites": "2",
+			"total": "83",
+			"perc_sites": 2.41
+		},
+		{
+			"lang_main": "glg",
+			"lang": "glg",
+			"sites": "1677",
+			"total": "2412",
+			"perc_sites": 69.53
+		},
+		{
+			"lang_main": "glg",
+			"lang": "spa",
+			"sites": "240",
+			"total": "2412",
+			"perc_sites": 9.95
+		},
+		{
+			"lang_main": "glg",
+			"lang": "eng",
+			"sites": "102",
+			"total": "2412",
+			"perc_sites": 4.23
+		},
+		{
+			"lang_main": "glg",
+			"lang": "zho",
+			"sites": "36",
+			"total": "2412",
+			"perc_sites": 1.49
+		},
+		{
+			"lang_main": "glg",
+			"lang": "gle",
+			"sites": "28",
+			"total": "2412",
+			"perc_sites": 1.16
+		},
+		{
+			"lang_main": "glg",
+			"lang": "isl",
+			"sites": "24",
+			"total": "2412",
+			"perc_sites": 1
+		},
+		{
+			"lang_main": "glg",
+			"lang": "hau",
+			"sites": "23",
+			"total": "2412",
+			"perc_sites": 0.95
+		},
+		{
+			"lang_main": "glg",
+			"lang": "ind",
+			"sites": "20",
+			"total": "2412",
+			"perc_sites": 0.83
+		},
+		{
+			"lang_main": "glg",
+			"lang": "cat",
+			"sites": "19",
+			"total": "2412",
+			"perc_sites": 0.79
+		},
+		{
+			"lang_main": "glg",
+			"lang": "mkd",
+			"sites": "17",
+			"total": "2412",
+			"perc_sites": 0.7
+		},
+		{
+			"lang_main": "glg",
+			"lang": "srp",
+			"sites": "16",
+			"total": "2412",
+			"perc_sites": 0.66
+		},
+		{
+			"lang_main": "glg",
+			"lang": "cym",
+			"sites": "15",
+			"total": "2412",
+			"perc_sites": 0.62
+		},
+		{
+			"lang_main": "glg",
+			"lang": "lit",
+			"sites": "14",
+			"total": "2412",
+			"perc_sites": 0.58
+		},
+		{
+			"lang_main": "glg",
+			"lang": "ara",
+			"sites": "13",
+			"total": "2412",
+			"perc_sites": 0.54
+		},
+		{
+			"lang_main": "glg",
+			"lang": "hrv",
+			"sites": "12",
+			"total": "2412",
+			"perc_sites": 0.5
+		},
+		{
+			"lang_main": "glg",
+			"lang": "yor",
+			"sites": "12",
+			"total": "2412",
+			"perc_sites": 0.5
+		},
+		{
+			"lang_main": "glg",
+			"lang": "kan",
+			"sites": "8",
+			"total": "2412",
+			"perc_sites": 0.33
+		},
+		{
+			"lang_main": "glg",
+			"lang": "sqi",
+			"sites": "7",
+			"total": "2412",
+			"perc_sites": 0.29
+		},
+		{
+			"lang_main": "glg",
+			"lang": "est",
+			"sites": "7",
+			"total": "2412",
+			"perc_sites": 0.29
+		},
+		{
+			"lang_main": "glg",
+			"lang": "tam",
+			"sites": "6",
+			"total": "2412",
+			"perc_sites": 0.25
+		},
+		{
+			"lang_main": "glg",
+			"lang": "mon",
+			"sites": "5",
+			"total": "2412",
+			"perc_sites": 0.21
+		},
+		{
+			"lang_main": "glg",
+			"lang": "smo",
+			"sites": "5",
+			"total": "2412",
+			"perc_sites": 0.21
+		},
+		{
+			"lang_main": "glg",
+			"lang": "ceb",
+			"sites": "5",
+			"total": "2412",
+			"perc_sites": 0.21
+		},
+		{
+			"lang_main": "glg",
+			"lang": "dan",
+			"sites": "5",
+			"total": "2412",
+			"perc_sites": 0.21
+		},
+		{
+			"lang_main": "glg",
+			"lang": "tgk",
+			"sites": "5",
+			"total": "2412",
+			"perc_sites": 0.21
+		},
+		{
+			"lang_main": "glg",
+			"lang": "bul",
+			"sites": "4",
+			"total": "2412",
+			"perc_sites": 0.17
+		},
+		{
+			"lang_main": "glg",
+			"lang": "aze",
+			"sites": "4",
+			"total": "2412",
+			"perc_sites": 0.17
+		},
+		{
+			"lang_main": "glg",
+			"lang": "hmn",
+			"sites": "4",
+			"total": "2412",
+			"perc_sites": 0.17
+		},
+		{
+			"lang_main": "glg",
+			"lang": "ben",
+			"sites": "4",
+			"total": "2412",
+			"perc_sites": 0.17
+		},
+		{
+			"lang_main": "glg",
+			"lang": "heb",
+			"sites": "4",
+			"total": "2412",
+			"perc_sites": 0.17
+		},
+		{
+			"lang_main": "glg",
+			"lang": "jav",
+			"sites": "4",
+			"total": "2412",
+			"perc_sites": 0.17
+		},
+		{
+			"lang_main": "glg",
+			"lang": "ces",
+			"sites": "3",
+			"total": "2412",
+			"perc_sites": 0.12
+		},
+		{
+			"lang_main": "glg",
+			"lang": "fra",
+			"sites": "3",
+			"total": "2412",
+			"perc_sites": 0.12
+		},
+		{
+			"lang_main": "glg",
+			"lang": "fin",
+			"sites": "3",
+			"total": "2412",
+			"perc_sites": 0.12
+		},
+		{
+			"lang_main": "glg",
+			"lang": "fry",
+			"sites": "3",
+			"total": "2412",
+			"perc_sites": 0.12
+		},
+		{
+			"lang_main": "glg",
+			"lang": "nep",
+			"sites": "3",
+			"total": "2412",
+			"perc_sites": 0.12
+		},
+		{
+			"lang_main": "glg",
+			"lang": "urd",
+			"sites": "3",
+			"total": "2412",
+			"perc_sites": 0.12
+		},
+		{
+			"lang_main": "glg",
+			"lang": "ell",
+			"sites": "3",
+			"total": "2412",
+			"perc_sites": 0.12
+		},
+		{
+			"lang_main": "glg",
+			"lang": "sin",
+			"sites": "2",
+			"total": "2412",
+			"perc_sites": 0.08
+		},
+		{
+			"lang_main": "glg",
+			"lang": "sna",
+			"sites": "2",
+			"total": "2412",
+			"perc_sites": 0.08
+		},
+		{
+			"lang_main": "glg",
+			"lang": "tha",
+			"sites": "2",
+			"total": "2412",
+			"perc_sites": 0.08
+		},
+		{
+			"lang_main": "glg",
+			"lang": "kir",
+			"sites": "2",
+			"total": "2412",
+			"perc_sites": 0.08
+		},
+		{
+			"lang_main": "glg",
+			"lang": "pus",
+			"sites": "2",
+			"total": "2412",
+			"perc_sites": 0.08
+		},
+		{
+			"lang_main": "glg",
+			"lang": "som",
+			"sites": "2",
+			"total": "2412",
+			"perc_sites": 0.08
+		},
+		{
+			"lang_main": "glg",
+			"lang": "nld",
+			"sites": "2",
+			"total": "2412",
+			"perc_sites": 0.08
+		},
+		{
+			"lang_main": "glg",
+			"lang": "uzb",
+			"sites": "2",
+			"total": "2412",
+			"perc_sites": 0.08
+		},
+		{
+			"lang_main": "glg",
+			"lang": "kat",
+			"sites": "2",
+			"total": "2412",
+			"perc_sites": 0.08
+		},
+		{
+			"lang_main": "glg",
+			"lang": "tgl",
+			"sites": "2",
+			"total": "2412",
+			"perc_sites": 0.08
+		},
+		{
+			"lang_main": "glg",
+			"lang": "lat",
+			"sites": "2",
+			"total": "2412",
+			"perc_sites": 0.08
+		},
+		{
+			"lang_main": "glg",
+			"lang": "deu",
+			"sites": "2",
+			"total": "2412",
+			"perc_sites": 0.08
+		},
+		{
+			"lang_main": "glg",
+			"lang": "cos",
+			"sites": "2",
+			"total": "2412",
+			"perc_sites": 0.08
+		},
+		{
+			"lang_main": "glg",
+			"lang": "guj",
+			"sites": "2",
+			"total": "2412",
+			"perc_sites": 0.08
+		},
+		{
+			"lang_main": "glg",
+			"lang": "sun",
+			"sites": "1",
+			"total": "2412",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "glg",
+			"lang": "zul",
+			"sites": "1",
+			"total": "2412",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "glg",
+			"lang": "kaz",
+			"sites": "1",
+			"total": "2412",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "glg",
+			"lang": "amh",
+			"sites": "1",
+			"total": "2412",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "glg",
+			"lang": "hye",
+			"sites": "1",
+			"total": "2412",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "glg",
+			"lang": "epo",
+			"sites": "1",
+			"total": "2412",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "glg",
+			"lang": "pan",
+			"sites": "1",
+			"total": "2412",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "glg",
+			"lang": "afr",
+			"sites": "1",
+			"total": "2412",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "glg",
+			"lang": "eus",
+			"sites": "1",
+			"total": "2412",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "glg",
+			"lang": "mlg",
+			"sites": "1",
+			"total": "2412",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "glg",
+			"lang": "mri",
+			"sites": "1",
+			"total": "2412",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "glg",
+			"lang": "tel",
+			"sites": "1",
+			"total": "2412",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "glg",
+			"lang": "lao",
+			"sites": "1",
+			"total": "2412",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "glg",
+			"lang": "nya",
+			"sites": "1",
+			"total": "2412",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "glg",
+			"lang": "ukr",
+			"sites": "1",
+			"total": "2412",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "glg",
+			"lang": "gla",
+			"sites": "1",
+			"total": "2412",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "glg",
+			"lang": "ita",
+			"sites": "1",
+			"total": "2412",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "glg",
+			"lang": "yid",
+			"sites": "1",
+			"total": "2412",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "glv",
+			"lang": "glv",
+			"sites": "2",
+			"total": "2",
+			"perc_sites": 100
+		},
+		{
+			"lang_main": "grn",
+			"lang": "grn",
+			"sites": "2",
+			"total": "2",
+			"perc_sites": 100
+		},
+		{
+			"lang_main": "guj",
+			"lang": "guj",
+			"sites": "7771",
+			"total": "8215",
+			"perc_sites": 94.6
+		},
+		{
+			"lang_main": "guj",
+			"lang": "eng",
+			"sites": "423",
+			"total": "8215",
+			"perc_sites": 5.15
+		},
+		{
+			"lang_main": "guj",
+			"lang": "hin",
+			"sites": "21",
+			"total": "8215",
+			"perc_sites": 0.26
+		},
+		{
+			"lang_main": "hat",
+			"lang": "hat",
+			"sites": "3",
+			"total": "3",
+			"perc_sites": 100
+		},
+		{
+			"lang_main": "hau",
+			"lang": "hau",
+			"sites": "461",
+			"total": "475",
+			"perc_sites": 97.05
+		},
+		{
+			"lang_main": "hau",
+			"lang": "eng",
+			"sites": "14",
+			"total": "475",
+			"perc_sites": 2.95
+		},
+		{
+			"lang_main": "haw",
+			"lang": "haw",
+			"sites": "4",
+			"total": "4",
+			"perc_sites": 100
+		},
+		{
+			"lang_main": "heb",
+			"lang": "heb",
+			"sites": "8712",
+			"total": "9385",
+			"perc_sites": 92.83
+		},
+		{
+			"lang_main": "heb",
+			"lang": "eng",
+			"sites": "588",
+			"total": "9385",
+			"perc_sites": 6.27
+		},
+		{
+			"lang_main": "heb",
+			"lang": "yid",
+			"sites": "32",
+			"total": "9385",
+			"perc_sites": 0.34
+		},
+		{
+			"lang_main": "heb",
+			"lang": "fra",
+			"sites": "24",
+			"total": "9385",
+			"perc_sites": 0.26
+		},
+		{
+			"lang_main": "heb",
+			"lang": "dan",
+			"sites": "20",
+			"total": "9385",
+			"perc_sites": 0.21
+		},
+		{
+			"lang_main": "heb",
+			"lang": "lat",
+			"sites": "5",
+			"total": "9385",
+			"perc_sites": 0.05
+		},
+		{
+			"lang_main": "heb",
+			"lang": "ron",
+			"sites": "3",
+			"total": "9385",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "heb",
+			"lang": "nld",
+			"sites": "1",
+			"total": "9385",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "hin",
+			"lang": "hin",
+			"sites": "109207",
+			"total": "117410",
+			"perc_sites": 93.01
+		},
+		{
+			"lang_main": "hin",
+			"lang": "eng",
+			"sites": "7997",
+			"total": "117410",
+			"perc_sites": 6.81
+		},
+		{
+			"lang_main": "hin",
+			"lang": "san",
+			"sites": "62",
+			"total": "117410",
+			"perc_sites": 0.05
+		},
+		{
+			"lang_main": "hin",
+			"lang": "lat",
+			"sites": "47",
+			"total": "117410",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "hin",
+			"lang": "mar",
+			"sites": "27",
+			"total": "117410",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "hin",
+			"lang": "guj",
+			"sites": "23",
+			"total": "117410",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "hin",
+			"lang": "bih",
+			"sites": "6",
+			"total": "117410",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "hin",
+			"lang": "pan",
+			"sites": "12",
+			"total": "117410",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "hin",
+			"lang": "kan",
+			"sites": "11",
+			"total": "117410",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "hin",
+			"lang": "nld",
+			"sites": "1",
+			"total": "117410",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "hin",
+			"lang": "fra",
+			"sites": "1",
+			"total": "117410",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "hin",
+			"lang": "tam",
+			"sites": "4",
+			"total": "117410",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "hin",
+			"lang": "ori",
+			"sites": "2",
+			"total": "117410",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "hin",
+			"lang": "zho",
+			"sites": "3",
+			"total": "117410",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "hin",
+			"lang": "tel",
+			"sites": "2",
+			"total": "117410",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "hin",
+			"lang": "pol",
+			"sites": "1",
+			"total": "117410",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "hin",
+			"lang": "urd",
+			"sites": "1",
+			"total": "117410",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "hin",
+			"lang": "nep",
+			"sites": "3",
+			"total": "117410",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "hmn",
+			"lang": "hmn",
+			"sites": "16",
+			"total": "16",
+			"perc_sites": 100
+		},
+		{
+			"lang_main": "hrv",
+			"lang": "hrv",
+			"sites": "10354",
+			"total": "11146",
+			"perc_sites": 92.89
+		},
+		{
+			"lang_main": "hrv",
+			"lang": "eng",
+			"sites": "404",
+			"total": "11146",
+			"perc_sites": 3.62
+		},
+		{
+			"lang_main": "hrv",
+			"lang": "deu",
+			"sites": "93",
+			"total": "11146",
+			"perc_sites": 0.83
+		},
+		{
+			"lang_main": "hrv",
+			"lang": "bos",
+			"sites": "63",
+			"total": "11146",
+			"perc_sites": 0.57
+		},
+		{
+			"lang_main": "hrv",
+			"lang": "slv",
+			"sites": "41",
+			"total": "11146",
+			"perc_sites": 0.37
+		},
+		{
+			"lang_main": "hrv",
+			"lang": "srp",
+			"sites": "40",
+			"total": "11146",
+			"perc_sites": 0.36
+		},
+		{
+			"lang_main": "hrv",
+			"lang": "ita",
+			"sites": "38",
+			"total": "11146",
+			"perc_sites": 0.34
+		},
+		{
+			"lang_main": "hrv",
+			"lang": "spa",
+			"sites": "34",
+			"total": "11146",
+			"perc_sites": 0.31
+		},
+		{
+			"lang_main": "hrv",
+			"lang": "rus",
+			"sites": "21",
+			"total": "11146",
+			"perc_sites": 0.19
+		},
+		{
+			"lang_main": "hrv",
+			"lang": "lat",
+			"sites": "16",
+			"total": "11146",
+			"perc_sites": 0.14
+		},
+		{
+			"lang_main": "hrv",
+			"lang": "fra",
+			"sites": "10",
+			"total": "11146",
+			"perc_sites": 0.09
+		},
+		{
+			"lang_main": "hrv",
+			"lang": "pol",
+			"sites": "5",
+			"total": "11146",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "hrv",
+			"lang": "jpn",
+			"sites": "3",
+			"total": "11146",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "hrv",
+			"lang": "nld",
+			"sites": "2",
+			"total": "11146",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "hrv",
+			"lang": "dan",
+			"sites": "2",
+			"total": "11146",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "hrv",
+			"lang": "ron",
+			"sites": "2",
+			"total": "11146",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "hrv",
+			"lang": "slk",
+			"sites": "2",
+			"total": "11146",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "hrv",
+			"lang": "fin",
+			"sites": "2",
+			"total": "11146",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "hrv",
+			"lang": "tha",
+			"sites": "2",
+			"total": "11146",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "hrv",
+			"lang": "por",
+			"sites": "2",
+			"total": "11146",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "hrv",
+			"lang": "hun",
+			"sites": "2",
+			"total": "11146",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "hrv",
+			"lang": "ukr",
+			"sites": "1",
+			"total": "11146",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "hrv",
+			"lang": "nor",
+			"sites": "1",
+			"total": "11146",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "hrv",
+			"lang": "ces",
+			"sites": "1",
+			"total": "11146",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "hrv",
+			"lang": "ara",
+			"sites": "1",
+			"total": "11146",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "hrv",
+			"lang": "heb",
+			"sites": "1",
+			"total": "11146",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "hrv",
+			"lang": "swe",
+			"sites": "1",
+			"total": "11146",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "hrv",
+			"lang": "sqi",
+			"sites": "1",
+			"total": "11146",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "hrv",
+			"lang": "kor",
+			"sites": "1",
+			"total": "11146",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "hun",
+			"lang": "hun",
+			"sites": "4581",
+			"total": "4924",
+			"perc_sites": 93.03
+		},
+		{
+			"lang_main": "hun",
+			"lang": "eng",
+			"sites": "302",
+			"total": "4924",
+			"perc_sites": 6.13
+		},
+		{
+			"lang_main": "hun",
+			"lang": "deu",
+			"sites": "22",
+			"total": "4924",
+			"perc_sites": 0.45
+		},
+		{
+			"lang_main": "hun",
+			"lang": "slk",
+			"sites": "7",
+			"total": "4924",
+			"perc_sites": 0.14
+		},
+		{
+			"lang_main": "hun",
+			"lang": "srp",
+			"sites": "4",
+			"total": "4924",
+			"perc_sites": 0.08
+		},
+		{
+			"lang_main": "hun",
+			"lang": "lat",
+			"sites": "3",
+			"total": "4924",
+			"perc_sites": 0.06
+		},
+		{
+			"lang_main": "hun",
+			"lang": "rus",
+			"sites": "1",
+			"total": "4924",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "hun",
+			"lang": "ukr",
+			"sites": "1",
+			"total": "4924",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "hun",
+			"lang": "swe",
+			"sites": "1",
+			"total": "4924",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "hun",
+			"lang": "ell",
+			"sites": "1",
+			"total": "4924",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "hun",
+			"lang": "heb",
+			"sites": "1",
+			"total": "4924",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "hye",
+			"lang": "hye",
+			"sites": "597",
+			"total": "612",
+			"perc_sites": 97.55
+		},
+		{
+			"lang_main": "hye",
+			"lang": "ell",
+			"sites": "7",
+			"total": "612",
+			"perc_sites": 1.14
+		},
+		{
+			"lang_main": "hye",
+			"lang": "syr",
+			"sites": "4",
+			"total": "612",
+			"perc_sites": 0.65
+		},
+		{
+			"lang_main": "hye",
+			"lang": "div",
+			"sites": "2",
+			"total": "612",
+			"perc_sites": 0.33
+		},
+		{
+			"lang_main": "hye",
+			"lang": "eng",
+			"sites": "2",
+			"total": "612",
+			"perc_sites": 0.33
+		},
+		{
+			"lang_main": "ibo",
+			"lang": "ibo",
+			"sites": "55",
+			"total": "56",
+			"perc_sites": 98.21
+		},
+		{
+			"lang_main": "ibo",
+			"lang": "eng",
+			"sites": "1",
+			"total": "56",
+			"perc_sites": 1.79
+		},
+		{
+			"lang_main": "ile",
+			"lang": "ile",
+			"sites": "4",
+			"total": "4",
+			"perc_sites": 100
+		},
+		{
+			"lang_main": "ind",
+			"lang": "ind",
+			"sites": "190367",
+			"total": "211292",
+			"perc_sites": 90.1
+		},
+		{
+			"lang_main": "ind",
+			"lang": "eng",
+			"sites": "18938",
+			"total": "211292",
+			"perc_sites": 8.96
+		},
+		{
+			"lang_main": "ind",
+			"lang": "msa",
+			"sites": "857",
+			"total": "211292",
+			"perc_sites": 0.41
+		},
+		{
+			"lang_main": "ind",
+			"lang": "jav",
+			"sites": "279",
+			"total": "211292",
+			"perc_sites": 0.13
+		},
+		{
+			"lang_main": "ind",
+			"lang": "lat",
+			"sites": "160",
+			"total": "211292",
+			"perc_sites": 0.08
+		},
+		{
+			"lang_main": "ind",
+			"lang": "nld",
+			"sites": "155",
+			"total": "211292",
+			"perc_sites": 0.07
+		},
+		{
+			"lang_main": "ind",
+			"lang": "tha",
+			"sites": "95",
+			"total": "211292",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "ind",
+			"lang": "zho",
+			"sites": "77",
+			"total": "211292",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "ind",
+			"lang": "deu",
+			"sites": "74",
+			"total": "211292",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "ind",
+			"lang": "ara",
+			"sites": "55",
+			"total": "211292",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "ind",
+			"lang": "jpn",
+			"sites": "41",
+			"total": "211292",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "ind",
+			"lang": "sun",
+			"sites": "38",
+			"total": "211292",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "ind",
+			"lang": "rus",
+			"sites": "20",
+			"total": "211292",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "ind",
+			"lang": "kor",
+			"sites": "30",
+			"total": "211292",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "ind",
+			"lang": "san",
+			"sites": "12",
+			"total": "211292",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "ind",
+			"lang": "ita",
+			"sites": "15",
+			"total": "211292",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "ind",
+			"lang": "vie",
+			"sites": "30",
+			"total": "211292",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "ind",
+			"lang": "spa",
+			"sites": "11",
+			"total": "211292",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "ind",
+			"lang": "por",
+			"sites": "2",
+			"total": "211292",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ind",
+			"lang": "aze",
+			"sites": "5",
+			"total": "211292",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ind",
+			"lang": "ukr",
+			"sites": "1",
+			"total": "211292",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ind",
+			"lang": "pol",
+			"sites": "1",
+			"total": "211292",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ind",
+			"lang": "tur",
+			"sites": "7",
+			"total": "211292",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ind",
+			"lang": "nor",
+			"sites": "1",
+			"total": "211292",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ind",
+			"lang": "som",
+			"sites": "3",
+			"total": "211292",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ind",
+			"lang": "ile",
+			"sites": "1",
+			"total": "211292",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ind",
+			"lang": "ell",
+			"sites": "6",
+			"total": "211292",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ind",
+			"lang": "swe",
+			"sites": "1",
+			"total": "211292",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ind",
+			"lang": "fra",
+			"sites": "3",
+			"total": "211292",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ind",
+			"lang": "bos",
+			"sites": "6",
+			"total": "211292",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ind",
+			"lang": "hun",
+			"sites": "1",
+			"total": "211292",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "isl",
+			"lang": "isl",
+			"sites": "60",
+			"total": "74",
+			"perc_sites": 81.08
+		},
+		{
+			"lang_main": "isl",
+			"lang": "eng",
+			"sites": "11",
+			"total": "74",
+			"perc_sites": 14.86
+		},
+		{
+			"lang_main": "isl",
+			"lang": "deu",
+			"sites": "3",
+			"total": "74",
+			"perc_sites": 4.05
+		},
+		{
+			"lang_main": "ita",
+			"lang": "ita",
+			"sites": "208035",
+			"total": "242032",
+			"perc_sites": 85.95
+		},
+		{
+			"lang_main": "ita",
+			"lang": "eng",
+			"sites": "20359",
+			"total": "242032",
+			"perc_sites": 8.41
+		},
+		{
+			"lang_main": "ita",
+			"lang": "deu",
+			"sites": "6018",
+			"total": "242032",
+			"perc_sites": 2.49
+		},
+		{
+			"lang_main": "ita",
+			"lang": "fra",
+			"sites": "4161",
+			"total": "242032",
+			"perc_sites": 1.72
+		},
+		{
+			"lang_main": "ita",
+			"lang": "spa",
+			"sites": "1052",
+			"total": "242032",
+			"perc_sites": 0.43
+		},
+		{
+			"lang_main": "ita",
+			"lang": "rus",
+			"sites": "334",
+			"total": "242032",
+			"perc_sites": 0.14
+		},
+		{
+			"lang_main": "ita",
+			"lang": "zho",
+			"sites": "284",
+			"total": "242032",
+			"perc_sites": 0.12
+		},
+		{
+			"lang_main": "ita",
+			"lang": "lat",
+			"sites": "301",
+			"total": "242032",
+			"perc_sites": 0.12
+		},
+		{
+			"lang_main": "ita",
+			"lang": "por",
+			"sites": "277",
+			"total": "242032",
+			"perc_sites": 0.11
+		},
+		{
+			"lang_main": "ita",
+			"lang": "jpn",
+			"sites": "221",
+			"total": "242032",
+			"perc_sites": 0.09
+		},
+		{
+			"lang_main": "ita",
+			"lang": "slv",
+			"sites": "185",
+			"total": "242032",
+			"perc_sites": 0.08
+		},
+		{
+			"lang_main": "ita",
+			"lang": "nld",
+			"sites": "156",
+			"total": "242032",
+			"perc_sites": 0.06
+		},
+		{
+			"lang_main": "ita",
+			"lang": "hrv",
+			"sites": "121",
+			"total": "242032",
+			"perc_sites": 0.05
+		},
+		{
+			"lang_main": "ita",
+			"lang": "dan",
+			"sites": "69",
+			"total": "242032",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "ita",
+			"lang": "kor",
+			"sites": "63",
+			"total": "242032",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "ita",
+			"lang": "hin",
+			"sites": "38",
+			"total": "242032",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "ita",
+			"lang": "ara",
+			"sites": "39",
+			"total": "242032",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "ita",
+			"lang": "lit",
+			"sites": "18",
+			"total": "242032",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "ita",
+			"lang": "ind",
+			"sites": "19",
+			"total": "242032",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "ita",
+			"lang": "ell",
+			"sites": "15",
+			"total": "242032",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "ita",
+			"lang": "tur",
+			"sites": "35",
+			"total": "242032",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "ita",
+			"lang": "slk",
+			"sites": "13",
+			"total": "242032",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "ita",
+			"lang": "ukr",
+			"sites": "32",
+			"total": "242032",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "ita",
+			"lang": "fin",
+			"sites": "30",
+			"total": "242032",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "ita",
+			"lang": "kat",
+			"sites": "33",
+			"total": "242032",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "ita",
+			"lang": "pol",
+			"sites": "16",
+			"total": "242032",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "ita",
+			"lang": "cat",
+			"sites": "28",
+			"total": "242032",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "ita",
+			"lang": "bel",
+			"sites": "2",
+			"total": "242032",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ita",
+			"lang": "bul",
+			"sites": "1",
+			"total": "242032",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ita",
+			"lang": "srp",
+			"sites": "1",
+			"total": "242032",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ita",
+			"lang": "cos",
+			"sites": "6",
+			"total": "242032",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ita",
+			"lang": "tha",
+			"sites": "2",
+			"total": "242032",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ita",
+			"lang": "ces",
+			"sites": "12",
+			"total": "242032",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ita",
+			"lang": "roh",
+			"sites": "2",
+			"total": "242032",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ita",
+			"lang": "swe",
+			"sites": "8",
+			"total": "242032",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ita",
+			"lang": "est",
+			"sites": "1",
+			"total": "242032",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ita",
+			"lang": "war",
+			"sites": "2",
+			"total": "242032",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ita",
+			"lang": "hun",
+			"sites": "12",
+			"total": "242032",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ita",
+			"lang": "san",
+			"sites": "2",
+			"total": "242032",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ita",
+			"lang": "sqi",
+			"sites": "1",
+			"total": "242032",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ita",
+			"lang": "lav",
+			"sites": "10",
+			"total": "242032",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ita",
+			"lang": "ron",
+			"sites": "9",
+			"total": "242032",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ita",
+			"lang": "nor",
+			"sites": "8",
+			"total": "242032",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "ita",
+			"lang": "heb",
+			"sites": "1",
+			"total": "242032",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "jav",
+			"lang": "jav",
+			"sites": "123",
+			"total": "151",
+			"perc_sites": 81.46
+		},
+		{
+			"lang_main": "jav",
+			"lang": "eng",
+			"sites": "6",
+			"total": "151",
+			"perc_sites": 3.97
+		},
+		{
+			"lang_main": "jav",
+			"lang": "ind",
+			"sites": "2",
+			"total": "151",
+			"perc_sites": 1.32
+		},
+		{
+			"lang_main": "jav",
+			"lang": "ara",
+			"sites": "1",
+			"total": "151",
+			"perc_sites": 0.66
+		},
+		{
+			"lang_main": "jav",
+			"lang": "mar",
+			"sites": "1",
+			"total": "151",
+			"perc_sites": 0.66
+		},
+		{
+			"lang_main": "jav",
+			"lang": "eus",
+			"sites": "1",
+			"total": "151",
+			"perc_sites": 0.66
+		},
+		{
+			"lang_main": "jav",
+			"lang": "ron",
+			"sites": "1",
+			"total": "151",
+			"perc_sites": 0.66
+		},
+		{
+			"lang_main": "jav",
+			"lang": "guj",
+			"sites": "1",
+			"total": "151",
+			"perc_sites": 0.66
+		},
+		{
+			"lang_main": "jav",
+			"lang": "mon",
+			"sites": "1",
+			"total": "151",
+			"perc_sites": 0.66
+		},
+		{
+			"lang_main": "jav",
+			"lang": "gle",
+			"sites": "1",
+			"total": "151",
+			"perc_sites": 0.66
+		},
+		{
+			"lang_main": "jav",
+			"lang": "glg",
+			"sites": "1",
+			"total": "151",
+			"perc_sites": 0.66
+		},
+		{
+			"lang_main": "jav",
+			"lang": "nld",
+			"sites": "1",
+			"total": "151",
+			"perc_sites": 0.66
+		},
+		{
+			"lang_main": "jav",
+			"lang": "cat",
+			"sites": "1",
+			"total": "151",
+			"perc_sites": 0.66
+		},
+		{
+			"lang_main": "jav",
+			"lang": "tha",
+			"sites": "1",
+			"total": "151",
+			"perc_sites": 0.66
+		},
+		{
+			"lang_main": "jav",
+			"lang": "ukr",
+			"sites": "1",
+			"total": "151",
+			"perc_sites": 0.66
+		},
+		{
+			"lang_main": "jav",
+			"lang": "ibo",
+			"sites": "1",
+			"total": "151",
+			"perc_sites": 0.66
+		},
+		{
+			"lang_main": "jav",
+			"lang": "swa",
+			"sites": "1",
+			"total": "151",
+			"perc_sites": 0.66
+		},
+		{
+			"lang_main": "jav",
+			"lang": "tel",
+			"sites": "1",
+			"total": "151",
+			"perc_sites": 0.66
+		},
+		{
+			"lang_main": "jav",
+			"lang": "amh",
+			"sites": "1",
+			"total": "151",
+			"perc_sites": 0.66
+		},
+		{
+			"lang_main": "jav",
+			"lang": "fry",
+			"sites": "1",
+			"total": "151",
+			"perc_sites": 0.66
+		},
+		{
+			"lang_main": "jav",
+			"lang": "hat",
+			"sites": "1",
+			"total": "151",
+			"perc_sites": 0.66
+		},
+		{
+			"lang_main": "jav",
+			"lang": "dan",
+			"sites": "1",
+			"total": "151",
+			"perc_sites": 0.66
+		},
+		{
+			"lang_main": "jav",
+			"lang": "zul",
+			"sites": "1",
+			"total": "151",
+			"perc_sites": 0.66
+		},
+		{
+			"lang_main": "jpn",
+			"lang": "jpn",
+			"sites": "1290527",
+			"total": "1308279",
+			"perc_sites": 98.64
+		},
+		{
+			"lang_main": "jpn",
+			"lang": "eng",
+			"sites": "14565",
+			"total": "1308279",
+			"perc_sites": 1.11
+		},
+		{
+			"lang_main": "jpn",
+			"lang": "zho",
+			"sites": "2051",
+			"total": "1308279",
+			"perc_sites": 0.16
+		},
+		{
+			"lang_main": "jpn",
+			"lang": "lat",
+			"sites": "217",
+			"total": "1308279",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "jpn",
+			"lang": "fra",
+			"sites": "167",
+			"total": "1308279",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "jpn",
+			"lang": "kor",
+			"sites": "148",
+			"total": "1308279",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "jpn",
+			"lang": "dan",
+			"sites": "191",
+			"total": "1308279",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "jpn",
+			"lang": "ces",
+			"sites": "70",
+			"total": "1308279",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "jpn",
+			"lang": "syr",
+			"sites": "1",
+			"total": "1308279",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "jpn",
+			"lang": "aka",
+			"sites": "1",
+			"total": "1308279",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "jpn",
+			"lang": "hye",
+			"sites": "1",
+			"total": "1308279",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "jpn",
+			"lang": "pol",
+			"sites": "1",
+			"total": "1308279",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "jpn",
+			"lang": "ben",
+			"sites": "26",
+			"total": "1308279",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "jpn",
+			"lang": "fas",
+			"sites": "13",
+			"total": "1308279",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "jpn",
+			"lang": "hin",
+			"sites": "21",
+			"total": "1308279",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "jpn",
+			"lang": "swa",
+			"sites": "2",
+			"total": "1308279",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "jpn",
+			"lang": "ind",
+			"sites": "32",
+			"total": "1308279",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "jpn",
+			"lang": "srp",
+			"sites": "1",
+			"total": "1308279",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "jpn",
+			"lang": "por",
+			"sites": "23",
+			"total": "1308279",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "jpn",
+			"lang": "tha",
+			"sites": "16",
+			"total": "1308279",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "jpn",
+			"lang": "div",
+			"sites": "2",
+			"total": "1308279",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "jpn",
+			"lang": "mya",
+			"sites": "1",
+			"total": "1308279",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "jpn",
+			"lang": "ita",
+			"sites": "11",
+			"total": "1308279",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "jpn",
+			"lang": "ell",
+			"sites": "3",
+			"total": "1308279",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "jpn",
+			"lang": "deu",
+			"sites": "6",
+			"total": "1308279",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "jpn",
+			"lang": "tur",
+			"sites": "1",
+			"total": "1308279",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "jpn",
+			"lang": "nep",
+			"sites": "5",
+			"total": "1308279",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "jpn",
+			"lang": "ara",
+			"sites": "43",
+			"total": "1308279",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "jpn",
+			"lang": "vie",
+			"sites": "47",
+			"total": "1308279",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "jpn",
+			"lang": "eus",
+			"sites": "1",
+			"total": "1308279",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "jpn",
+			"lang": "spa",
+			"sites": "49",
+			"total": "1308279",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "jpn",
+			"lang": "rus",
+			"sites": "36",
+			"total": "1308279",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "kan",
+			"lang": "kan",
+			"sites": "4946",
+			"total": "5340",
+			"perc_sites": 92.62
+		},
+		{
+			"lang_main": "kan",
+			"lang": "eng",
+			"sites": "386",
+			"total": "5340",
+			"perc_sites": 7.23
+		},
+		{
+			"lang_main": "kan",
+			"lang": "tel",
+			"sites": "6",
+			"total": "5340",
+			"perc_sites": 0.11
+		},
+		{
+			"lang_main": "kan",
+			"lang": "lat",
+			"sites": "2",
+			"total": "5340",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "kat",
+			"lang": "kat",
+			"sites": "2213",
+			"total": "2675",
+			"perc_sites": 82.73
+		},
+		{
+			"lang_main": "kat",
+			"lang": "eng",
+			"sites": "462",
+			"total": "2675",
+			"perc_sites": 17.27
+		},
+		{
+			"lang_main": "kaz",
+			"lang": "kaz",
+			"sites": "42",
+			"total": "46",
+			"perc_sites": 91.3
+		},
+		{
+			"lang_main": "kaz",
+			"lang": "eng",
+			"sites": "2",
+			"total": "46",
+			"perc_sites": 4.35
+		},
+		{
+			"lang_main": "kaz",
+			"lang": "rus",
+			"sites": "2",
+			"total": "46",
+			"perc_sites": 4.35
+		},
+		{
+			"lang_main": "kha",
+			"lang": "kha",
+			"sites": "1",
+			"total": "1",
+			"perc_sites": 100
+		},
+		{
+			"lang_main": "khm",
+			"lang": "khm",
+			"sites": "474",
+			"total": "511",
+			"perc_sites": 92.76
+		},
+		{
+			"lang_main": "khm",
+			"lang": "eng",
+			"sites": "36",
+			"total": "511",
+			"perc_sites": 7.05
+		},
+		{
+			"lang_main": "khm",
+			"lang": "lat",
+			"sites": "1",
+			"total": "511",
+			"perc_sites": 0.2
+		},
+		{
+			"lang_main": "kin",
+			"lang": "kin",
+			"sites": "80",
+			"total": "81",
+			"perc_sites": 98.77
+		},
+		{
+			"lang_main": "kin",
+			"lang": "eng",
+			"sites": "1",
+			"total": "81",
+			"perc_sites": 1.23
+		},
+		{
+			"lang_main": "kir",
+			"lang": "kir",
+			"sites": "19",
+			"total": "19",
+			"perc_sites": 100
+		},
+		{
+			"lang_main": "kor",
+			"lang": "kor",
+			"sites": "80888",
+			"total": "83280",
+			"perc_sites": 97.13
+		},
+		{
+			"lang_main": "kor",
+			"lang": "eng",
+			"sites": "1757",
+			"total": "83280",
+			"perc_sites": 2.11
+		},
+		{
+			"lang_main": "kor",
+			"lang": "jpn",
+			"sites": "233",
+			"total": "83280",
+			"perc_sites": 0.28
+		},
+		{
+			"lang_main": "kor",
+			"lang": "zho",
+			"sites": "170",
+			"total": "83280",
+			"perc_sites": 0.2
+		},
+		{
+			"lang_main": "kor",
+			"lang": "spa",
+			"sites": "160",
+			"total": "83280",
+			"perc_sites": 0.19
+		},
+		{
+			"lang_main": "kor",
+			"lang": "fra",
+			"sites": "22",
+			"total": "83280",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "kor",
+			"lang": "rus",
+			"sites": "17",
+			"total": "83280",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "kor",
+			"lang": "tha",
+			"sites": "7",
+			"total": "83280",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "kor",
+			"lang": "dan",
+			"sites": "7",
+			"total": "83280",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "kor",
+			"lang": "vie",
+			"sites": "3",
+			"total": "83280",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "kor",
+			"lang": "ita",
+			"sites": "1",
+			"total": "83280",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "kor",
+			"lang": "pol",
+			"sites": "1",
+			"total": "83280",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "kor",
+			"lang": "hye",
+			"sites": "1",
+			"total": "83280",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "kor",
+			"lang": "ces",
+			"sites": "2",
+			"total": "83280",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "kor",
+			"lang": "lat",
+			"sites": "3",
+			"total": "83280",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "kor",
+			"lang": "por",
+			"sites": "1",
+			"total": "83280",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "kor",
+			"lang": "ukr",
+			"sites": "1",
+			"total": "83280",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "kor",
+			"lang": "ind",
+			"sites": "3",
+			"total": "83280",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "kor",
+			"lang": "deu",
+			"sites": "2",
+			"total": "83280",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "kor",
+			"lang": "mon",
+			"sites": "1",
+			"total": "83280",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "kur",
+			"lang": "kur",
+			"sites": "103",
+			"total": "111",
+			"perc_sites": 92.79
+		},
+		{
+			"lang_main": "kur",
+			"lang": "eng",
+			"sites": "3",
+			"total": "111",
+			"perc_sites": 2.7
+		},
+		{
+			"lang_main": "kur",
+			"lang": "swe",
+			"sites": "2",
+			"total": "111",
+			"perc_sites": 1.8
+		},
+		{
+			"lang_main": "kur",
+			"lang": "fas",
+			"sites": "2",
+			"total": "111",
+			"perc_sites": 1.8
+		},
+		{
+			"lang_main": "kur",
+			"lang": "ara",
+			"sites": "1",
+			"total": "111",
+			"perc_sites": 0.9
+		},
+		{
+			"lang_main": "lao",
+			"lang": "lao",
+			"sites": "68",
+			"total": "68",
+			"perc_sites": 100
+		},
+		{
+			"lang_main": "lat",
+			"lang": "lat",
+			"sites": "5049",
+			"total": "7934",
+			"perc_sites": 63.64
+		},
+		{
+			"lang_main": "lat",
+			"lang": "eng",
+			"sites": "2003",
+			"total": "7934",
+			"perc_sites": 25.25
+		},
+		{
+			"lang_main": "lat",
+			"lang": "spa",
+			"sites": "231",
+			"total": "7934",
+			"perc_sites": 2.91
+		},
+		{
+			"lang_main": "lat",
+			"lang": "ita",
+			"sites": "130",
+			"total": "7934",
+			"perc_sites": 1.64
+		},
+		{
+			"lang_main": "lat",
+			"lang": "fra",
+			"sites": "123",
+			"total": "7934",
+			"perc_sites": 1.55
+		},
+		{
+			"lang_main": "lat",
+			"lang": "tur",
+			"sites": "105",
+			"total": "7934",
+			"perc_sites": 1.32
+		},
+		{
+			"lang_main": "lat",
+			"lang": "heb",
+			"sites": "64",
+			"total": "7934",
+			"perc_sites": 0.81
+		},
+		{
+			"lang_main": "lat",
+			"lang": "deu",
+			"sites": "47",
+			"total": "7934",
+			"perc_sites": 0.59
+		},
+		{
+			"lang_main": "lat",
+			"lang": "pol",
+			"sites": "32",
+			"total": "7934",
+			"perc_sites": 0.4
+		},
+		{
+			"lang_main": "lat",
+			"lang": "jpn",
+			"sites": "31",
+			"total": "7934",
+			"perc_sites": 0.39
+		},
+		{
+			"lang_main": "lat",
+			"lang": "ara",
+			"sites": "17",
+			"total": "7934",
+			"perc_sites": 0.21
+		},
+		{
+			"lang_main": "lat",
+			"lang": "ukr",
+			"sites": "13",
+			"total": "7934",
+			"perc_sites": 0.16
+		},
+		{
+			"lang_main": "lat",
+			"lang": "kor",
+			"sites": "11",
+			"total": "7934",
+			"perc_sites": 0.14
+		},
+		{
+			"lang_main": "lat",
+			"lang": "por",
+			"sites": "11",
+			"total": "7934",
+			"perc_sites": 0.14
+		},
+		{
+			"lang_main": "lat",
+			"lang": "tha",
+			"sites": "10",
+			"total": "7934",
+			"perc_sites": 0.13
+		},
+		{
+			"lang_main": "lat",
+			"lang": "srp",
+			"sites": "10",
+			"total": "7934",
+			"perc_sites": 0.13
+		},
+		{
+			"lang_main": "lat",
+			"lang": "nld",
+			"sites": "9",
+			"total": "7934",
+			"perc_sites": 0.11
+		},
+		{
+			"lang_main": "lat",
+			"lang": "cat",
+			"sites": "9",
+			"total": "7934",
+			"perc_sites": 0.11
+		},
+		{
+			"lang_main": "lat",
+			"lang": "rus",
+			"sites": "5",
+			"total": "7934",
+			"perc_sites": 0.06
+		},
+		{
+			"lang_main": "lat",
+			"lang": "bos",
+			"sites": "5",
+			"total": "7934",
+			"perc_sites": 0.06
+		},
+		{
+			"lang_main": "lat",
+			"lang": "ind",
+			"sites": "5",
+			"total": "7934",
+			"perc_sites": 0.06
+		},
+		{
+			"lang_main": "lat",
+			"lang": "ben",
+			"sites": "3",
+			"total": "7934",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "lat",
+			"lang": "hrv",
+			"sites": "3",
+			"total": "7934",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "lat",
+			"lang": "fin",
+			"sites": "3",
+			"total": "7934",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "lat",
+			"lang": "isl",
+			"sites": "1",
+			"total": "7934",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "lat",
+			"lang": "swe",
+			"sites": "1",
+			"total": "7934",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "lat",
+			"lang": "ell",
+			"sites": "1",
+			"total": "7934",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "lat",
+			"lang": "hin",
+			"sites": "1",
+			"total": "7934",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "lat",
+			"lang": "slv",
+			"sites": "1",
+			"total": "7934",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "lav",
+			"lang": "lav",
+			"sites": "1468",
+			"total": "1652",
+			"perc_sites": 88.86
+		},
+		{
+			"lang_main": "lav",
+			"lang": "eng",
+			"sites": "173",
+			"total": "1652",
+			"perc_sites": 10.47
+		},
+		{
+			"lang_main": "lav",
+			"lang": "rus",
+			"sites": "9",
+			"total": "1652",
+			"perc_sites": 0.54
+		},
+		{
+			"lang_main": "lav",
+			"lang": "lit",
+			"sites": "2",
+			"total": "1652",
+			"perc_sites": 0.12
+		},
+		{
+			"lang_main": "lin",
+			"lang": "lin",
+			"sites": "1",
+			"total": "1",
+			"perc_sites": 100
+		},
+		{
+			"lang_main": "lit",
+			"lang": "lit",
+			"sites": "2200",
+			"total": "3278",
+			"perc_sites": 67.11
+		},
+		{
+			"lang_main": "lit",
+			"lang": "eng",
+			"sites": "291",
+			"total": "3278",
+			"perc_sites": 8.88
+		},
+		{
+			"lang_main": "lit",
+			"lang": "lav",
+			"sites": "123",
+			"total": "3278",
+			"perc_sites": 3.75
+		},
+		{
+			"lang_main": "lit",
+			"lang": "deu",
+			"sites": "123",
+			"total": "3278",
+			"perc_sites": 3.75
+		},
+		{
+			"lang_main": "lit",
+			"lang": "hun",
+			"sites": "91",
+			"total": "3278",
+			"perc_sites": 2.78
+		},
+		{
+			"lang_main": "lit",
+			"lang": "nld",
+			"sites": "80",
+			"total": "3278",
+			"perc_sites": 2.44
+		},
+		{
+			"lang_main": "lit",
+			"lang": "ita",
+			"sites": "52",
+			"total": "3278",
+			"perc_sites": 1.59
+		},
+		{
+			"lang_main": "lit",
+			"lang": "fra",
+			"sites": "48",
+			"total": "3278",
+			"perc_sites": 1.46
+		},
+		{
+			"lang_main": "lit",
+			"lang": "fin",
+			"sites": "27",
+			"total": "3278",
+			"perc_sites": 0.82
+		},
+		{
+			"lang_main": "lit",
+			"lang": "dan",
+			"sites": "27",
+			"total": "3278",
+			"perc_sites": 0.82
+		},
+		{
+			"lang_main": "lit",
+			"lang": "est",
+			"sites": "22",
+			"total": "3278",
+			"perc_sites": 0.67
+		},
+		{
+			"lang_main": "lit",
+			"lang": "hrv",
+			"sites": "20",
+			"total": "3278",
+			"perc_sites": 0.61
+		},
+		{
+			"lang_main": "lit",
+			"lang": "slv",
+			"sites": "20",
+			"total": "3278",
+			"perc_sites": 0.61
+		},
+		{
+			"lang_main": "lit",
+			"lang": "spa",
+			"sites": "18",
+			"total": "3278",
+			"perc_sites": 0.55
+		},
+		{
+			"lang_main": "lit",
+			"lang": "bul",
+			"sites": "14",
+			"total": "3278",
+			"perc_sites": 0.43
+		},
+		{
+			"lang_main": "lit",
+			"lang": "nor",
+			"sites": "13",
+			"total": "3278",
+			"perc_sites": 0.4
+		},
+		{
+			"lang_main": "lit",
+			"lang": "ron",
+			"sites": "13",
+			"total": "3278",
+			"perc_sites": 0.4
+		},
+		{
+			"lang_main": "lit",
+			"lang": "swe",
+			"sites": "12",
+			"total": "3278",
+			"perc_sites": 0.37
+		},
+		{
+			"lang_main": "lit",
+			"lang": "tur",
+			"sites": "12",
+			"total": "3278",
+			"perc_sites": 0.37
+		},
+		{
+			"lang_main": "lit",
+			"lang": "slk",
+			"sites": "11",
+			"total": "3278",
+			"perc_sites": 0.34
+		},
+		{
+			"lang_main": "lit",
+			"lang": "srp",
+			"sites": "11",
+			"total": "3278",
+			"perc_sites": 0.34
+		},
+		{
+			"lang_main": "lit",
+			"lang": "ces",
+			"sites": "10",
+			"total": "3278",
+			"perc_sites": 0.31
+		},
+		{
+			"lang_main": "lit",
+			"lang": "ukr",
+			"sites": "10",
+			"total": "3278",
+			"perc_sites": 0.31
+		},
+		{
+			"lang_main": "lit",
+			"lang": "pol",
+			"sites": "10",
+			"total": "3278",
+			"perc_sites": 0.31
+		},
+		{
+			"lang_main": "lit",
+			"lang": "por",
+			"sites": "9",
+			"total": "3278",
+			"perc_sites": 0.27
+		},
+		{
+			"lang_main": "lit",
+			"lang": "rus",
+			"sites": "6",
+			"total": "3278",
+			"perc_sites": 0.18
+		},
+		{
+			"lang_main": "lit",
+			"lang": "ell",
+			"sites": "5",
+			"total": "3278",
+			"perc_sites": 0.15
+		},
+		{
+			"lang_main": "ltz",
+			"lang": "ltz",
+			"sites": "18",
+			"total": "23",
+			"perc_sites": 78.26
+		},
+		{
+			"lang_main": "ltz",
+			"lang": "eng",
+			"sites": "5",
+			"total": "23",
+			"perc_sites": 21.74
+		},
+		{
+			"lang_main": "mal",
+			"lang": "mal",
+			"sites": "12155",
+			"total": "12342",
+			"perc_sites": 98.48
+		},
+		{
+			"lang_main": "mal",
+			"lang": "eng",
+			"sites": "183",
+			"total": "12342",
+			"perc_sites": 1.48
+		},
+		{
+			"lang_main": "mal",
+			"lang": "lat",
+			"sites": "4",
+			"total": "12342",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "mar",
+			"lang": "mar",
+			"sites": "7256",
+			"total": "7845",
+			"perc_sites": 92.49
+		},
+		{
+			"lang_main": "mar",
+			"lang": "hin",
+			"sites": "306",
+			"total": "7845",
+			"perc_sites": 3.9
+		},
+		{
+			"lang_main": "mar",
+			"lang": "eng",
+			"sites": "261",
+			"total": "7845",
+			"perc_sites": 3.33
+		},
+		{
+			"lang_main": "mar",
+			"lang": "kan",
+			"sites": "18",
+			"total": "7845",
+			"perc_sites": 0.23
+		},
+		{
+			"lang_main": "mar",
+			"lang": "lat",
+			"sites": "4",
+			"total": "7845",
+			"perc_sites": 0.05
+		},
+		{
+			"lang_main": "mkd",
+			"lang": "mkd",
+			"sites": "239",
+			"total": "263",
+			"perc_sites": 90.87
+		},
+		{
+			"lang_main": "mkd",
+			"lang": "eng",
+			"sites": "17",
+			"total": "263",
+			"perc_sites": 6.46
+		},
+		{
+			"lang_main": "mkd",
+			"lang": "sqi",
+			"sites": "3",
+			"total": "263",
+			"perc_sites": 1.14
+		},
+		{
+			"lang_main": "mkd",
+			"lang": "tur",
+			"sites": "2",
+			"total": "263",
+			"perc_sites": 0.76
+		},
+		{
+			"lang_main": "mkd",
+			"lang": "lat",
+			"sites": "1",
+			"total": "263",
+			"perc_sites": 0.38
+		},
+		{
+			"lang_main": "mkd",
+			"lang": "srp",
+			"sites": "1",
+			"total": "263",
+			"perc_sites": 0.38
+		},
+		{
+			"lang_main": "mlg",
+			"lang": "mlg",
+			"sites": "10",
+			"total": "10",
+			"perc_sites": 100
+		},
+		{
+			"lang_main": "mlt",
+			"lang": "mlt",
+			"sites": "167",
+			"total": "169",
+			"perc_sites": 98.82
+		},
+		{
+			"lang_main": "mlt",
+			"lang": "eng",
+			"sites": "2",
+			"total": "169",
+			"perc_sites": 1.18
+		},
+		{
+			"lang_main": "mon",
+			"lang": "mon",
+			"sites": "4",
+			"total": "4",
+			"perc_sites": 100
+		},
+		{
+			"lang_main": "mri",
+			"lang": "mri",
+			"sites": "14",
+			"total": "16",
+			"perc_sites": 87.5
+		},
+		{
+			"lang_main": "mri",
+			"lang": "eng",
+			"sites": "2",
+			"total": "16",
+			"perc_sites": 12.5
+		},
+		{
+			"lang_main": "msa",
+			"lang": "msa",
+			"sites": "14011",
+			"total": "15580",
+			"perc_sites": 89.93
+		},
+		{
+			"lang_main": "msa",
+			"lang": "eng",
+			"sites": "1430",
+			"total": "15580",
+			"perc_sites": 9.18
+		},
+		{
+			"lang_main": "msa",
+			"lang": "ind",
+			"sites": "102",
+			"total": "15580",
+			"perc_sites": 0.65
+		},
+		{
+			"lang_main": "msa",
+			"lang": "zho",
+			"sites": "28",
+			"total": "15580",
+			"perc_sites": 0.18
+		},
+		{
+			"lang_main": "msa",
+			"lang": "lat",
+			"sites": "5",
+			"total": "15580",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "msa",
+			"lang": "tam",
+			"sites": "1",
+			"total": "15580",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "msa",
+			"lang": "dan",
+			"sites": "1",
+			"total": "15580",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "msa",
+			"lang": "ara",
+			"sites": "1",
+			"total": "15580",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "msa",
+			"lang": "jpn",
+			"sites": "1",
+			"total": "15580",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "mya",
+			"lang": "mya",
+			"sites": "1001",
+			"total": "1078",
+			"perc_sites": 92.86
+		},
+		{
+			"lang_main": "mya",
+			"lang": "eng",
+			"sites": "61",
+			"total": "1078",
+			"perc_sites": 5.66
+		},
+		{
+			"lang_main": "mya",
+			"lang": "vie",
+			"sites": "14",
+			"total": "1078",
+			"perc_sites": 1.3
+		},
+		{
+			"lang_main": "mya",
+			"lang": "kor",
+			"sites": "1",
+			"total": "1078",
+			"perc_sites": 0.09
+		},
+		{
+			"lang_main": "mya",
+			"lang": "ara",
+			"sites": "1",
+			"total": "1078",
+			"perc_sites": 0.09
+		},
+		{
+			"lang_main": "nep",
+			"lang": "nep",
+			"sites": "65498",
+			"total": "68274",
+			"perc_sites": 95.93
+		},
+		{
+			"lang_main": "nep",
+			"lang": "eng",
+			"sites": "2722",
+			"total": "68274",
+			"perc_sites": 3.99
+		},
+		{
+			"lang_main": "nep",
+			"lang": "rus",
+			"sites": "16",
+			"total": "68274",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "nep",
+			"lang": "pol",
+			"sites": "8",
+			"total": "68274",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "nep",
+			"lang": "deu",
+			"sites": "8",
+			"total": "68274",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "nep",
+			"lang": "jpn",
+			"sites": "9",
+			"total": "68274",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "nep",
+			"lang": "lav",
+			"sites": "1",
+			"total": "68274",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "nep",
+			"lang": "bul",
+			"sites": "1",
+			"total": "68274",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "nep",
+			"lang": "tur",
+			"sites": "1",
+			"total": "68274",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "nep",
+			"lang": "swe",
+			"sites": "1",
+			"total": "68274",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "nep",
+			"lang": "mar",
+			"sites": "2",
+			"total": "68274",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "nep",
+			"lang": "fra",
+			"sites": "2",
+			"total": "68274",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "nep",
+			"lang": "spa",
+			"sites": "2",
+			"total": "68274",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "nep",
+			"lang": "aze",
+			"sites": "2",
+			"total": "68274",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "nep",
+			"lang": "hin",
+			"sites": "1",
+			"total": "68274",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "nld",
+			"lang": "nld",
+			"sites": "35678",
+			"total": "41959",
+			"perc_sites": 85.03
+		},
+		{
+			"lang_main": "nld",
+			"lang": "eng",
+			"sites": "3119",
+			"total": "41959",
+			"perc_sites": 7.43
+		},
+		{
+			"lang_main": "nld",
+			"lang": "fra",
+			"sites": "1352",
+			"total": "41959",
+			"perc_sites": 3.22
+		},
+		{
+			"lang_main": "nld",
+			"lang": "deu",
+			"sites": "602",
+			"total": "41959",
+			"perc_sites": 1.43
+		},
+		{
+			"lang_main": "nld",
+			"lang": "ita",
+			"sites": "234",
+			"total": "41959",
+			"perc_sites": 0.56
+		},
+		{
+			"lang_main": "nld",
+			"lang": "spa",
+			"sites": "207",
+			"total": "41959",
+			"perc_sites": 0.49
+		},
+		{
+			"lang_main": "nld",
+			"lang": "dan",
+			"sites": "103",
+			"total": "41959",
+			"perc_sites": 0.25
+		},
+		{
+			"lang_main": "nld",
+			"lang": "nor",
+			"sites": "96",
+			"total": "41959",
+			"perc_sites": 0.23
+		},
+		{
+			"lang_main": "nld",
+			"lang": "swe",
+			"sites": "92",
+			"total": "41959",
+			"perc_sites": 0.22
+		},
+		{
+			"lang_main": "nld",
+			"lang": "fin",
+			"sites": "45",
+			"total": "41959",
+			"perc_sites": 0.11
+		},
+		{
+			"lang_main": "nld",
+			"lang": "por",
+			"sites": "41",
+			"total": "41959",
+			"perc_sites": 0.1
+		},
+		{
+			"lang_main": "nld",
+			"lang": "lat",
+			"sites": "41",
+			"total": "41959",
+			"perc_sites": 0.1
+		},
+		{
+			"lang_main": "nld",
+			"lang": "tur",
+			"sites": "44",
+			"total": "41959",
+			"perc_sites": 0.1
+		},
+		{
+			"lang_main": "nld",
+			"lang": "pol",
+			"sites": "38",
+			"total": "41959",
+			"perc_sites": 0.09
+		},
+		{
+			"lang_main": "nld",
+			"lang": "ces",
+			"sites": "30",
+			"total": "41959",
+			"perc_sites": 0.07
+		},
+		{
+			"lang_main": "nld",
+			"lang": "jpn",
+			"sites": "28",
+			"total": "41959",
+			"perc_sites": 0.07
+		},
+		{
+			"lang_main": "nld",
+			"lang": "lav",
+			"sites": "28",
+			"total": "41959",
+			"perc_sites": 0.07
+		},
+		{
+			"lang_main": "nld",
+			"lang": "slk",
+			"sites": "27",
+			"total": "41959",
+			"perc_sites": 0.06
+		},
+		{
+			"lang_main": "nld",
+			"lang": "slv",
+			"sites": "25",
+			"total": "41959",
+			"perc_sites": 0.06
+		},
+		{
+			"lang_main": "nld",
+			"lang": "hun",
+			"sites": "24",
+			"total": "41959",
+			"perc_sites": 0.06
+		},
+		{
+			"lang_main": "nld",
+			"lang": "est",
+			"sites": "24",
+			"total": "41959",
+			"perc_sites": 0.06
+		},
+		{
+			"lang_main": "nld",
+			"lang": "bul",
+			"sites": "26",
+			"total": "41959",
+			"perc_sites": 0.06
+		},
+		{
+			"lang_main": "nld",
+			"lang": "lit",
+			"sites": "21",
+			"total": "41959",
+			"perc_sites": 0.05
+		},
+		{
+			"lang_main": "nld",
+			"lang": "ron",
+			"sites": "21",
+			"total": "41959",
+			"perc_sites": 0.05
+		},
+		{
+			"lang_main": "nld",
+			"lang": "ukr",
+			"sites": "3",
+			"total": "41959",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "nld",
+			"lang": "rus",
+			"sites": "4",
+			"total": "41959",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "nld",
+			"lang": "cat",
+			"sites": "2",
+			"total": "41959",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "nld",
+			"lang": "ile",
+			"sites": "2",
+			"total": "41959",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "nld",
+			"lang": "bos",
+			"sites": "1",
+			"total": "41959",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "nld",
+			"lang": "afr",
+			"sites": "1",
+			"total": "41959",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "nno",
+			"lang": "nno",
+			"sites": "86",
+			"total": "108",
+			"perc_sites": 79.63
+		},
+		{
+			"lang_main": "nno",
+			"lang": "nor",
+			"sites": "22",
+			"total": "108",
+			"perc_sites": 20.37
+		},
+		{
+			"lang_main": "nor",
+			"lang": "nor",
+			"sites": "10500",
+			"total": "11953",
+			"perc_sites": 87.84
+		},
+		{
+			"lang_main": "nor",
+			"lang": "eng",
+			"sites": "1213",
+			"total": "11953",
+			"perc_sites": 10.15
+		},
+		{
+			"lang_main": "nor",
+			"lang": "rus",
+			"sites": "62",
+			"total": "11953",
+			"perc_sites": 0.52
+		},
+		{
+			"lang_main": "nor",
+			"lang": "fas",
+			"sites": "51",
+			"total": "11953",
+			"perc_sites": 0.43
+		},
+		{
+			"lang_main": "nor",
+			"lang": "swe",
+			"sites": "36",
+			"total": "11953",
+			"perc_sites": 0.3
+		},
+		{
+			"lang_main": "nor",
+			"lang": "nno",
+			"sites": "13",
+			"total": "11953",
+			"perc_sites": 0.11
+		},
+		{
+			"lang_main": "nor",
+			"lang": "ita",
+			"sites": "12",
+			"total": "11953",
+			"perc_sites": 0.1
+		},
+		{
+			"lang_main": "nor",
+			"lang": "deu",
+			"sites": "11",
+			"total": "11953",
+			"perc_sites": 0.09
+		},
+		{
+			"lang_main": "nor",
+			"lang": "lat",
+			"sites": "11",
+			"total": "11953",
+			"perc_sites": 0.09
+		},
+		{
+			"lang_main": "nor",
+			"lang": "spa",
+			"sites": "9",
+			"total": "11953",
+			"perc_sites": 0.08
+		},
+		{
+			"lang_main": "nor",
+			"lang": "tur",
+			"sites": "8",
+			"total": "11953",
+			"perc_sites": 0.07
+		},
+		{
+			"lang_main": "nor",
+			"lang": "ukr",
+			"sites": "6",
+			"total": "11953",
+			"perc_sites": 0.05
+		},
+		{
+			"lang_main": "nor",
+			"lang": "dan",
+			"sites": "5",
+			"total": "11953",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "nor",
+			"lang": "fra",
+			"sites": "5",
+			"total": "11953",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "nor",
+			"lang": "pol",
+			"sites": "3",
+			"total": "11953",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "nor",
+			"lang": "por",
+			"sites": "3",
+			"total": "11953",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "nor",
+			"lang": "heb",
+			"sites": "2",
+			"total": "11953",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "nor",
+			"lang": "slv",
+			"sites": "1",
+			"total": "11953",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "nor",
+			"lang": "ind",
+			"sites": "1",
+			"total": "11953",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "nor",
+			"lang": "kaz",
+			"sites": "1",
+			"total": "11953",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "nya",
+			"lang": "nya",
+			"sites": "45",
+			"total": "48",
+			"perc_sites": 93.75
+		},
+		{
+			"lang_main": "nya",
+			"lang": "eng",
+			"sites": "3",
+			"total": "48",
+			"perc_sites": 6.25
+		},
+		{
+			"lang_main": "oci",
+			"lang": "oci",
+			"sites": "1",
+			"total": "1",
+			"perc_sites": 100
+		},
+		{
+			"lang_main": "ori",
+			"lang": "ori",
+			"sites": "4122",
+			"total": "4270",
+			"perc_sites": 96.53
+		},
+		{
+			"lang_main": "ori",
+			"lang": "eng",
+			"sites": "147",
+			"total": "4270",
+			"perc_sites": 3.44
+		},
+		{
+			"lang_main": "ori",
+			"lang": "tel",
+			"sites": "1",
+			"total": "4270",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "orm",
+			"lang": "orm",
+			"sites": "370",
+			"total": "370",
+			"perc_sites": 100
+		},
+		{
+			"lang_main": "pan",
+			"lang": "pan",
+			"sites": "1817",
+			"total": "1877",
+			"perc_sites": 96.8
+		},
+		{
+			"lang_main": "pan",
+			"lang": "eng",
+			"sites": "60",
+			"total": "1877",
+			"perc_sites": 3.2
+		},
+		{
+			"lang_main": "pol",
+			"lang": "pol",
+			"sites": "13458",
+			"total": "14873",
+			"perc_sites": 90.49
+		},
+		{
+			"lang_main": "pol",
+			"lang": "eng",
+			"sites": "879",
+			"total": "14873",
+			"perc_sites": 5.91
+		},
+		{
+			"lang_main": "pol",
+			"lang": "tur",
+			"sites": "213",
+			"total": "14873",
+			"perc_sites": 1.43
+		},
+		{
+			"lang_main": "pol",
+			"lang": "rus",
+			"sites": "138",
+			"total": "14873",
+			"perc_sites": 0.93
+		},
+		{
+			"lang_main": "pol",
+			"lang": "deu",
+			"sites": "74",
+			"total": "14873",
+			"perc_sites": 0.5
+		},
+		{
+			"lang_main": "pol",
+			"lang": "lat",
+			"sites": "37",
+			"total": "14873",
+			"perc_sites": 0.25
+		},
+		{
+			"lang_main": "pol",
+			"lang": "ron",
+			"sites": "17",
+			"total": "14873",
+			"perc_sites": 0.11
+		},
+		{
+			"lang_main": "pol",
+			"lang": "spa",
+			"sites": "15",
+			"total": "14873",
+			"perc_sites": 0.1
+		},
+		{
+			"lang_main": "pol",
+			"lang": "aze",
+			"sites": "14",
+			"total": "14873",
+			"perc_sites": 0.09
+		},
+		{
+			"lang_main": "pol",
+			"lang": "ukr",
+			"sites": "12",
+			"total": "14873",
+			"perc_sites": 0.08
+		},
+		{
+			"lang_main": "pol",
+			"lang": "fra",
+			"sites": "8",
+			"total": "14873",
+			"perc_sites": 0.05
+		},
+		{
+			"lang_main": "pol",
+			"lang": "ita",
+			"sites": "3",
+			"total": "14873",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "pol",
+			"lang": "tha",
+			"sites": "1",
+			"total": "14873",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "pol",
+			"lang": "slk",
+			"sites": "1",
+			"total": "14873",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "pol",
+			"lang": "por",
+			"sites": "1",
+			"total": "14873",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "pol",
+			"lang": "dan",
+			"sites": "1",
+			"total": "14873",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "pol",
+			"lang": "lit",
+			"sites": "1",
+			"total": "14873",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "por",
+			"lang": "por",
+			"sites": "97762",
+			"total": "108323",
+			"perc_sites": 90.25
+		},
+		{
+			"lang_main": "por",
+			"lang": "eng",
+			"sites": "6252",
+			"total": "108323",
+			"perc_sites": 5.77
+		},
+		{
+			"lang_main": "por",
+			"lang": "spa",
+			"sites": "1585",
+			"total": "108323",
+			"perc_sites": 1.46
+		},
+		{
+			"lang_main": "por",
+			"lang": "fra",
+			"sites": "1499",
+			"total": "108323",
+			"perc_sites": 1.38
+		},
+		{
+			"lang_main": "por",
+			"lang": "deu",
+			"sites": "582",
+			"total": "108323",
+			"perc_sites": 0.54
+		},
+		{
+			"lang_main": "por",
+			"lang": "ita",
+			"sites": "382",
+			"total": "108323",
+			"perc_sites": 0.35
+		},
+		{
+			"lang_main": "por",
+			"lang": "zho",
+			"sites": "86",
+			"total": "108323",
+			"perc_sites": 0.08
+		},
+		{
+			"lang_main": "por",
+			"lang": "lat",
+			"sites": "91",
+			"total": "108323",
+			"perc_sites": 0.08
+		},
+		{
+			"lang_main": "por",
+			"lang": "rus",
+			"sites": "51",
+			"total": "108323",
+			"perc_sites": 0.05
+		},
+		{
+			"lang_main": "por",
+			"lang": "aze",
+			"sites": "11",
+			"total": "108323",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "por",
+			"lang": "ind",
+			"sites": "6",
+			"total": "108323",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "por",
+			"lang": "pol",
+			"sites": "3",
+			"total": "108323",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "por",
+			"lang": "ces",
+			"sites": "2",
+			"total": "108323",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "por",
+			"lang": "slk",
+			"sites": "1",
+			"total": "108323",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "por",
+			"lang": "heb",
+			"sites": "1",
+			"total": "108323",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "por",
+			"lang": "ron",
+			"sites": "1",
+			"total": "108323",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "por",
+			"lang": "tsn",
+			"sites": "1",
+			"total": "108323",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "por",
+			"lang": "nld",
+			"sites": "1",
+			"total": "108323",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "por",
+			"lang": "grn",
+			"sites": "2",
+			"total": "108323",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "por",
+			"lang": "dan",
+			"sites": "1",
+			"total": "108323",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "por",
+			"lang": "slv",
+			"sites": "1",
+			"total": "108323",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "por",
+			"lang": "war",
+			"sites": "1",
+			"total": "108323",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "por",
+			"lang": "swe",
+			"sites": "1",
+			"total": "108323",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "pus",
+			"lang": "pus",
+			"sites": "204",
+			"total": "215",
+			"perc_sites": 94.88
+		},
+		{
+			"lang_main": "pus",
+			"lang": "eng",
+			"sites": "11",
+			"total": "215",
+			"perc_sites": 5.12
+		},
+		{
+			"lang_main": "roh",
+			"lang": "roh",
+			"sites": "14",
+			"total": "15",
+			"perc_sites": 93.33
+		},
+		{
+			"lang_main": "roh",
+			"lang": "eng",
+			"sites": "1",
+			"total": "15",
+			"perc_sites": 6.67
+		},
+		{
+			"lang_main": "ron",
+			"lang": "ron",
+			"sites": "13927",
+			"total": "16786",
+			"perc_sites": 82.97
+		},
+		{
+			"lang_main": "ron",
+			"lang": "eng",
+			"sites": "1260",
+			"total": "16786",
+			"perc_sites": 7.51
+		},
+		{
+			"lang_main": "ron",
+			"lang": "ces",
+			"sites": "511",
+			"total": "16786",
+			"perc_sites": 3.04
+		},
+		{
+			"lang_main": "ron",
+			"lang": "por",
+			"sites": "432",
+			"total": "16786",
+			"perc_sites": 2.57
+		},
+		{
+			"lang_main": "ron",
+			"lang": "kor",
+			"sites": "209",
+			"total": "16786",
+			"perc_sites": 1.25
+		},
+		{
+			"lang_main": "ron",
+			"lang": "spa",
+			"sites": "156",
+			"total": "16786",
+			"perc_sites": 0.93
+		},
+		{
+			"lang_main": "ron",
+			"lang": "rus",
+			"sites": "103",
+			"total": "16786",
+			"perc_sites": 0.61
+		},
+		{
+			"lang_main": "ron",
+			"lang": "ukr",
+			"sites": "85",
+			"total": "16786",
+			"perc_sites": 0.51
+		},
+		{
+			"lang_main": "ron",
+			"lang": "ita",
+			"sites": "33",
+			"total": "16786",
+			"perc_sites": 0.2
+		},
+		{
+			"lang_main": "ron",
+			"lang": "fra",
+			"sites": "31",
+			"total": "16786",
+			"perc_sites": 0.18
+		},
+		{
+			"lang_main": "ron",
+			"lang": "hun",
+			"sites": "18",
+			"total": "16786",
+			"perc_sites": 0.11
+		},
+		{
+			"lang_main": "ron",
+			"lang": "bul",
+			"sites": "17",
+			"total": "16786",
+			"perc_sites": 0.1
+		},
+		{
+			"lang_main": "ron",
+			"lang": "slk",
+			"sites": "1",
+			"total": "16786",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "ron",
+			"lang": "lat",
+			"sites": "1",
+			"total": "16786",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "ron",
+			"lang": "deu",
+			"sites": "2",
+			"total": "16786",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "run",
+			"lang": "run",
+			"sites": "1",
+			"total": "1",
+			"perc_sites": 100
+		},
+		{
+			"lang_main": "rus",
+			"lang": "rus",
+			"sites": "124548",
+			"total": "131016",
+			"perc_sites": 95.06
+		},
+		{
+			"lang_main": "rus",
+			"lang": "eng",
+			"sites": "2860",
+			"total": "131016",
+			"perc_sites": 2.18
+		},
+		{
+			"lang_main": "rus",
+			"lang": "ita",
+			"sites": "537",
+			"total": "131016",
+			"perc_sites": 0.41
+		},
+		{
+			"lang_main": "rus",
+			"lang": "ukr",
+			"sites": "470",
+			"total": "131016",
+			"perc_sites": 0.36
+		},
+		{
+			"lang_main": "rus",
+			"lang": "spa",
+			"sites": "377",
+			"total": "131016",
+			"perc_sites": 0.29
+		},
+		{
+			"lang_main": "rus",
+			"lang": "pol",
+			"sites": "305",
+			"total": "131016",
+			"perc_sites": 0.23
+		},
+		{
+			"lang_main": "rus",
+			"lang": "deu",
+			"sites": "269",
+			"total": "131016",
+			"perc_sites": 0.21
+		},
+		{
+			"lang_main": "rus",
+			"lang": "aze",
+			"sites": "264",
+			"total": "131016",
+			"perc_sites": 0.2
+		},
+		{
+			"lang_main": "rus",
+			"lang": "zho",
+			"sites": "255",
+			"total": "131016",
+			"perc_sites": 0.19
+		},
+		{
+			"lang_main": "rus",
+			"lang": "tur",
+			"sites": "220",
+			"total": "131016",
+			"perc_sites": 0.17
+		},
+		{
+			"lang_main": "rus",
+			"lang": "ara",
+			"sites": "187",
+			"total": "131016",
+			"perc_sites": 0.14
+		},
+		{
+			"lang_main": "rus",
+			"lang": "jpn",
+			"sites": "127",
+			"total": "131016",
+			"perc_sites": 0.1
+		},
+		{
+			"lang_main": "rus",
+			"lang": "fra",
+			"sites": "95",
+			"total": "131016",
+			"perc_sites": 0.07
+		},
+		{
+			"lang_main": "rus",
+			"lang": "por",
+			"sites": "51",
+			"total": "131016",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "rus",
+			"lang": "slv",
+			"sites": "35",
+			"total": "131016",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "rus",
+			"lang": "swe",
+			"sites": "35",
+			"total": "131016",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "rus",
+			"lang": "nld",
+			"sites": "37",
+			"total": "131016",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "rus",
+			"lang": "vie",
+			"sites": "39",
+			"total": "131016",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "rus",
+			"lang": "fin",
+			"sites": "41",
+			"total": "131016",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "rus",
+			"lang": "fas",
+			"sites": "38",
+			"total": "131016",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "rus",
+			"lang": "lat",
+			"sites": "34",
+			"total": "131016",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "rus",
+			"lang": "ind",
+			"sites": "24",
+			"total": "131016",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "rus",
+			"lang": "ell",
+			"sites": "15",
+			"total": "131016",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "rus",
+			"lang": "ron",
+			"sites": "15",
+			"total": "131016",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "rus",
+			"lang": "mon",
+			"sites": "7",
+			"total": "131016",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "rus",
+			"lang": "mkd",
+			"sites": "12",
+			"total": "131016",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "rus",
+			"lang": "kaz",
+			"sites": "19",
+			"total": "131016",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "rus",
+			"lang": "ben",
+			"sites": "10",
+			"total": "131016",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "rus",
+			"lang": "uzb",
+			"sites": "11",
+			"total": "131016",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "rus",
+			"lang": "lit",
+			"sites": "14",
+			"total": "131016",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "rus",
+			"lang": "hrv",
+			"sites": "9",
+			"total": "131016",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "rus",
+			"lang": "kat",
+			"sites": "1",
+			"total": "131016",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "rus",
+			"lang": "nep",
+			"sites": "5",
+			"total": "131016",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "rus",
+			"lang": "est",
+			"sites": "4",
+			"total": "131016",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "rus",
+			"lang": "tgk",
+			"sites": "5",
+			"total": "131016",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "rus",
+			"lang": "hun",
+			"sites": "1",
+			"total": "131016",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "rus",
+			"lang": "bel",
+			"sites": "3",
+			"total": "131016",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "rus",
+			"lang": "ces",
+			"sites": "2",
+			"total": "131016",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "rus",
+			"lang": "dan",
+			"sites": "4",
+			"total": "131016",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "rus",
+			"lang": "nor",
+			"sites": "1",
+			"total": "131016",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "rus",
+			"lang": "isl",
+			"sites": "1",
+			"total": "131016",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "rus",
+			"lang": "hin",
+			"sites": "3",
+			"total": "131016",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "rus",
+			"lang": "bul",
+			"sites": "6",
+			"total": "131016",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "rus",
+			"lang": "kir",
+			"sites": "2",
+			"total": "131016",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "rus",
+			"lang": "srp",
+			"sites": "6",
+			"total": "131016",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "rus",
+			"lang": "cat",
+			"sites": "1",
+			"total": "131016",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "rus",
+			"lang": "sin",
+			"sites": "1",
+			"total": "131016",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "rus",
+			"lang": "lav",
+			"sites": "5",
+			"total": "131016",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "rus",
+			"lang": "tha",
+			"sites": "5",
+			"total": "131016",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "san",
+			"lang": "san",
+			"sites": "485",
+			"total": "900",
+			"perc_sites": 53.89
+		},
+		{
+			"lang_main": "san",
+			"lang": "eng",
+			"sites": "201",
+			"total": "900",
+			"perc_sites": 22.33
+		},
+		{
+			"lang_main": "san",
+			"lang": "spa",
+			"sites": "55",
+			"total": "900",
+			"perc_sites": 6.11
+		},
+		{
+			"lang_main": "san",
+			"lang": "por",
+			"sites": "47",
+			"total": "900",
+			"perc_sites": 5.22
+		},
+		{
+			"lang_main": "san",
+			"lang": "rus",
+			"sites": "44",
+			"total": "900",
+			"perc_sites": 4.89
+		},
+		{
+			"lang_main": "san",
+			"lang": "hun",
+			"sites": "36",
+			"total": "900",
+			"perc_sites": 4
+		},
+		{
+			"lang_main": "san",
+			"lang": "hin",
+			"sites": "32",
+			"total": "900",
+			"perc_sites": 3.56
+		},
+		{
+			"lang_main": "sin",
+			"lang": "sin",
+			"sites": "1853",
+			"total": "1854",
+			"perc_sites": 99.95
+		},
+		{
+			"lang_main": "sin",
+			"lang": "eng",
+			"sites": "1",
+			"total": "1854",
+			"perc_sites": 0.05
+		},
+		{
+			"lang_main": "slk",
+			"lang": "slk",
+			"sites": "894",
+			"total": "1154",
+			"perc_sites": 77.47
+		},
+		{
+			"lang_main": "slk",
+			"lang": "eng",
+			"sites": "147",
+			"total": "1154",
+			"perc_sites": 12.74
+		},
+		{
+			"lang_main": "slk",
+			"lang": "ces",
+			"sites": "88",
+			"total": "1154",
+			"perc_sites": 7.63
+		},
+		{
+			"lang_main": "slk",
+			"lang": "lat",
+			"sites": "8",
+			"total": "1154",
+			"perc_sites": 0.69
+		},
+		{
+			"lang_main": "slk",
+			"lang": "deu",
+			"sites": "7",
+			"total": "1154",
+			"perc_sites": 0.61
+		},
+		{
+			"lang_main": "slk",
+			"lang": "pol",
+			"sites": "7",
+			"total": "1154",
+			"perc_sites": 0.61
+		},
+		{
+			"lang_main": "slk",
+			"lang": "hun",
+			"sites": "3",
+			"total": "1154",
+			"perc_sites": 0.26
+		},
+		{
+			"lang_main": "slv",
+			"lang": "slv",
+			"sites": "3253",
+			"total": "3677",
+			"perc_sites": 88.47
+		},
+		{
+			"lang_main": "slv",
+			"lang": "hrv",
+			"sites": "271",
+			"total": "3677",
+			"perc_sites": 7.37
+		},
+		{
+			"lang_main": "slv",
+			"lang": "eng",
+			"sites": "141",
+			"total": "3677",
+			"perc_sites": 3.83
+		},
+		{
+			"lang_main": "slv",
+			"lang": "deu",
+			"sites": "7",
+			"total": "3677",
+			"perc_sites": 0.19
+		},
+		{
+			"lang_main": "slv",
+			"lang": "lat",
+			"sites": "2",
+			"total": "3677",
+			"perc_sites": 0.05
+		},
+		{
+			"lang_main": "slv",
+			"lang": "ces",
+			"sites": "1",
+			"total": "3677",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "slv",
+			"lang": "ita",
+			"sites": "1",
+			"total": "3677",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "slv",
+			"lang": "srp",
+			"sites": "1",
+			"total": "3677",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "smo",
+			"lang": "smo",
+			"sites": "16",
+			"total": "16",
+			"perc_sites": 100
+		},
+		{
+			"lang_main": "sna",
+			"lang": "sna",
+			"sites": "55",
+			"total": "67",
+			"perc_sites": 82.09
+		},
+		{
+			"lang_main": "sna",
+			"lang": "eng",
+			"sites": "12",
+			"total": "67",
+			"perc_sites": 17.91
+		},
+		{
+			"lang_main": "snd",
+			"lang": "snd",
+			"sites": "1",
+			"total": "1",
+			"perc_sites": 100
+		},
+		{
+			"lang_main": "som",
+			"lang": "som",
+			"sites": "467",
+			"total": "834",
+			"perc_sites": 56
+		},
+		{
+			"lang_main": "som",
+			"lang": "eng",
+			"sites": "367",
+			"total": "834",
+			"perc_sites": 44
+		},
+		{
+			"lang_main": "sot",
+			"lang": "sot",
+			"sites": "15",
+			"total": "17",
+			"perc_sites": 88.24
+		},
+		{
+			"lang_main": "sot",
+			"lang": "eng",
+			"sites": "2",
+			"total": "17",
+			"perc_sites": 11.76
+		},
+		{
+			"lang_main": "spa",
+			"lang": "spa",
+			"sites": "538154",
+			"total": "604009",
+			"perc_sites": 89.1
+		},
+		{
+			"lang_main": "spa",
+			"lang": "eng",
+			"sites": "34227",
+			"total": "604009",
+			"perc_sites": 5.67
+		},
+		{
+			"lang_main": "spa",
+			"lang": "por",
+			"sites": "9234",
+			"total": "604009",
+			"perc_sites": 1.53
+		},
+		{
+			"lang_main": "spa",
+			"lang": "cat",
+			"sites": "5400",
+			"total": "604009",
+			"perc_sites": 0.89
+		},
+		{
+			"lang_main": "spa",
+			"lang": "jpn",
+			"sites": "3918",
+			"total": "604009",
+			"perc_sites": 0.65
+		},
+		{
+			"lang_main": "spa",
+			"lang": "fra",
+			"sites": "3756",
+			"total": "604009",
+			"perc_sites": 0.62
+		},
+		{
+			"lang_main": "spa",
+			"lang": "deu",
+			"sites": "2570",
+			"total": "604009",
+			"perc_sites": 0.43
+		},
+		{
+			"lang_main": "spa",
+			"lang": "eus",
+			"sites": "1547",
+			"total": "604009",
+			"perc_sites": 0.26
+		},
+		{
+			"lang_main": "spa",
+			"lang": "ita",
+			"sites": "1319",
+			"total": "604009",
+			"perc_sites": 0.22
+		},
+		{
+			"lang_main": "spa",
+			"lang": "lat",
+			"sites": "1210",
+			"total": "604009",
+			"perc_sites": 0.2
+		},
+		{
+			"lang_main": "spa",
+			"lang": "kor",
+			"sites": "541",
+			"total": "604009",
+			"perc_sites": 0.09
+		},
+		{
+			"lang_main": "spa",
+			"lang": "tha",
+			"sites": "358",
+			"total": "604009",
+			"perc_sites": 0.06
+		},
+		{
+			"lang_main": "spa",
+			"lang": "glg",
+			"sites": "305",
+			"total": "604009",
+			"perc_sites": 0.05
+		},
+		{
+			"lang_main": "spa",
+			"lang": "tur",
+			"sites": "280",
+			"total": "604009",
+			"perc_sites": 0.05
+		},
+		{
+			"lang_main": "spa",
+			"lang": "rus",
+			"sites": "280",
+			"total": "604009",
+			"perc_sites": 0.05
+		},
+		{
+			"lang_main": "spa",
+			"lang": "nld",
+			"sites": "139",
+			"total": "604009",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "spa",
+			"lang": "vie",
+			"sites": "96",
+			"total": "604009",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "spa",
+			"lang": "pol",
+			"sites": "109",
+			"total": "604009",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "spa",
+			"lang": "ara",
+			"sites": "111",
+			"total": "604009",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "spa",
+			"lang": "ell",
+			"sites": "43",
+			"total": "604009",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "spa",
+			"lang": "ces",
+			"sites": "59",
+			"total": "604009",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "spa",
+			"lang": "zho",
+			"sites": "59",
+			"total": "604009",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "spa",
+			"lang": "ind",
+			"sites": "41",
+			"total": "604009",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "spa",
+			"lang": "dan",
+			"sites": "49",
+			"total": "604009",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "spa",
+			"lang": "guj",
+			"sites": "1",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "ben",
+			"sites": "1",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "sin",
+			"sites": "1",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "bis",
+			"sites": "1",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "bul",
+			"sites": "15",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "que",
+			"sites": "3",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "sun",
+			"sites": "1",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "heb",
+			"sites": "20",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "est",
+			"sites": "2",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "mar",
+			"sites": "1",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "ron",
+			"sites": "8",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "hun",
+			"sites": "16",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "swe",
+			"sites": "16",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "grn",
+			"sites": "1",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "kat",
+			"sites": "1",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "msa",
+			"sites": "1",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "amh",
+			"sites": "1",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "fas",
+			"sites": "9",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "nor",
+			"sites": "12",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "aar",
+			"sites": "1",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "kan",
+			"sites": "2",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "mkd",
+			"sites": "1",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "lit",
+			"sites": "1",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "bak",
+			"sites": "1",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "kaz",
+			"sites": "1",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "lav",
+			"sites": "3",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "pan",
+			"sites": "1",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "slv",
+			"sites": "4",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "tuk",
+			"sites": "8",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "fin",
+			"sites": "2",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "mya",
+			"sites": "1",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "swa",
+			"sites": "1",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "hrv",
+			"sites": "2",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "hin",
+			"sites": "1",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "slk",
+			"sites": "11",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "ukr",
+			"sites": "2",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "aze",
+			"sites": "27",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "mlt",
+			"sites": "1",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "roh",
+			"sites": "1",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "srp",
+			"sites": "4",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "oci",
+			"sites": "16",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "spa",
+			"lang": "tam",
+			"sites": "1",
+			"total": "604009",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "sqi",
+			"lang": "sqi",
+			"sites": "1766",
+			"total": "1813",
+			"perc_sites": 97.41
+		},
+		{
+			"lang_main": "sqi",
+			"lang": "eng",
+			"sites": "47",
+			"total": "1813",
+			"perc_sites": 2.59
+		},
+		{
+			"lang_main": "srp",
+			"lang": "srp",
+			"sites": "15627",
+			"total": "17855",
+			"perc_sites": 87.52
+		},
+		{
+			"lang_main": "srp",
+			"lang": "eng",
+			"sites": "1334",
+			"total": "17855",
+			"perc_sites": 7.47
+		},
+		{
+			"lang_main": "srp",
+			"lang": "hrv",
+			"sites": "487",
+			"total": "17855",
+			"perc_sites": 2.73
+		},
+		{
+			"lang_main": "srp",
+			"lang": "bos",
+			"sites": "295",
+			"total": "17855",
+			"perc_sites": 1.65
+		},
+		{
+			"lang_main": "srp",
+			"lang": "lat",
+			"sites": "41",
+			"total": "17855",
+			"perc_sites": 0.23
+		},
+		{
+			"lang_main": "srp",
+			"lang": "nld",
+			"sites": "25",
+			"total": "17855",
+			"perc_sites": 0.14
+		},
+		{
+			"lang_main": "srp",
+			"lang": "deu",
+			"sites": "10",
+			"total": "17855",
+			"perc_sites": 0.06
+		},
+		{
+			"lang_main": "srp",
+			"lang": "rus",
+			"sites": "11",
+			"total": "17855",
+			"perc_sites": 0.06
+		},
+		{
+			"lang_main": "srp",
+			"lang": "fra",
+			"sites": "5",
+			"total": "17855",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "srp",
+			"lang": "ita",
+			"sites": "5",
+			"total": "17855",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "srp",
+			"lang": "hun",
+			"sites": "4",
+			"total": "17855",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "srp",
+			"lang": "spa",
+			"sites": "3",
+			"total": "17855",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "srp",
+			"lang": "swe",
+			"sites": "4",
+			"total": "17855",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "srp",
+			"lang": "slk",
+			"sites": "1",
+			"total": "17855",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "srp",
+			"lang": "mkd",
+			"sites": "1",
+			"total": "17855",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "srp",
+			"lang": "bul",
+			"sites": "2",
+			"total": "17855",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "sun",
+			"lang": "sun",
+			"sites": "42",
+			"total": "49",
+			"perc_sites": 85.71
+		},
+		{
+			"lang_main": "sun",
+			"lang": "eng",
+			"sites": "7",
+			"total": "49",
+			"perc_sites": 14.29
+		},
+		{
+			"lang_main": "swa",
+			"lang": "swa",
+			"sites": "1160",
+			"total": "1204",
+			"perc_sites": 96.35
+		},
+		{
+			"lang_main": "swa",
+			"lang": "eng",
+			"sites": "43",
+			"total": "1204",
+			"perc_sites": 3.57
+		},
+		{
+			"lang_main": "swa",
+			"lang": "lat",
+			"sites": "1",
+			"total": "1204",
+			"perc_sites": 0.08
+		},
+		{
+			"lang_main": "swe",
+			"lang": "swe",
+			"sites": "15097",
+			"total": "21088",
+			"perc_sites": 71.59
+		},
+		{
+			"lang_main": "swe",
+			"lang": "eng",
+			"sites": "3024",
+			"total": "21088",
+			"perc_sites": 14.34
+		},
+		{
+			"lang_main": "swe",
+			"lang": "nor",
+			"sites": "598",
+			"total": "21088",
+			"perc_sites": 2.84
+		},
+		{
+			"lang_main": "swe",
+			"lang": "fin",
+			"sites": "411",
+			"total": "21088",
+			"perc_sites": 1.95
+		},
+		{
+			"lang_main": "swe",
+			"lang": "est",
+			"sites": "402",
+			"total": "21088",
+			"perc_sites": 1.91
+		},
+		{
+			"lang_main": "swe",
+			"lang": "lav",
+			"sites": "329",
+			"total": "21088",
+			"perc_sites": 1.56
+		},
+		{
+			"lang_main": "swe",
+			"lang": "dan",
+			"sites": "325",
+			"total": "21088",
+			"perc_sites": 1.54
+		},
+		{
+			"lang_main": "swe",
+			"lang": "lit",
+			"sites": "303",
+			"total": "21088",
+			"perc_sites": 1.44
+		},
+		{
+			"lang_main": "swe",
+			"lang": "nld",
+			"sites": "276",
+			"total": "21088",
+			"perc_sites": 1.31
+		},
+		{
+			"lang_main": "swe",
+			"lang": "deu",
+			"sites": "105",
+			"total": "21088",
+			"perc_sites": 0.5
+		},
+		{
+			"lang_main": "swe",
+			"lang": "fra",
+			"sites": "105",
+			"total": "21088",
+			"perc_sites": 0.5
+		},
+		{
+			"lang_main": "swe",
+			"lang": "lat",
+			"sites": "25",
+			"total": "21088",
+			"perc_sites": 0.12
+		},
+		{
+			"lang_main": "swe",
+			"lang": "zho",
+			"sites": "21",
+			"total": "21088",
+			"perc_sites": 0.1
+		},
+		{
+			"lang_main": "swe",
+			"lang": "spa",
+			"sites": "17",
+			"total": "21088",
+			"perc_sites": 0.08
+		},
+		{
+			"lang_main": "swe",
+			"lang": "ita",
+			"sites": "14",
+			"total": "21088",
+			"perc_sites": 0.07
+		},
+		{
+			"lang_main": "swe",
+			"lang": "ces",
+			"sites": "12",
+			"total": "21088",
+			"perc_sites": 0.06
+		},
+		{
+			"lang_main": "swe",
+			"lang": "isl",
+			"sites": "10",
+			"total": "21088",
+			"perc_sites": 0.05
+		},
+		{
+			"lang_main": "swe",
+			"lang": "ell",
+			"sites": "8",
+			"total": "21088",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "swe",
+			"lang": "rus",
+			"sites": "4",
+			"total": "21088",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "swe",
+			"lang": "nno",
+			"sites": "1",
+			"total": "21088",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "swe",
+			"lang": "swa",
+			"sites": "1",
+			"total": "21088",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "syr",
+			"lang": "syr",
+			"sites": "29",
+			"total": "42",
+			"perc_sites": 69.05
+		},
+		{
+			"lang_main": "syr",
+			"lang": "ell",
+			"sites": "5",
+			"total": "42",
+			"perc_sites": 11.9
+		},
+		{
+			"lang_main": "syr",
+			"lang": "hye",
+			"sites": "5",
+			"total": "42",
+			"perc_sites": 11.9
+		},
+		{
+			"lang_main": "syr",
+			"lang": "div",
+			"sites": "3",
+			"total": "42",
+			"perc_sites": 7.14
+		},
+		{
+			"lang_main": "tam",
+			"lang": "tam",
+			"sites": "8055",
+			"total": "8189",
+			"perc_sites": 98.36
+		},
+		{
+			"lang_main": "tam",
+			"lang": "eng",
+			"sites": "132",
+			"total": "8189",
+			"perc_sites": 1.61
+		},
+		{
+			"lang_main": "tam",
+			"lang": "bos",
+			"sites": "1",
+			"total": "8189",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "tam",
+			"lang": "sin",
+			"sites": "1",
+			"total": "8189",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "tat",
+			"lang": "tat",
+			"sites": "35",
+			"total": "35",
+			"perc_sites": 100
+		},
+		{
+			"lang_main": "tel",
+			"lang": "tel",
+			"sites": "9813",
+			"total": "10213",
+			"perc_sites": 96.08
+		},
+		{
+			"lang_main": "tel",
+			"lang": "eng",
+			"sites": "398",
+			"total": "10213",
+			"perc_sites": 3.9
+		},
+		{
+			"lang_main": "tel",
+			"lang": "san",
+			"sites": "1",
+			"total": "10213",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "tel",
+			"lang": "tam",
+			"sites": "1",
+			"total": "10213",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "tgk",
+			"lang": "tgk",
+			"sites": "283",
+			"total": "284",
+			"perc_sites": 99.65
+		},
+		{
+			"lang_main": "tgk",
+			"lang": "rus",
+			"sites": "1",
+			"total": "284",
+			"perc_sites": 0.35
+		},
+		{
+			"lang_main": "tgl",
+			"lang": "tgl",
+			"sites": "105",
+			"total": "122",
+			"perc_sites": 86.07
+		},
+		{
+			"lang_main": "tgl",
+			"lang": "eng",
+			"sites": "17",
+			"total": "122",
+			"perc_sites": 13.93
+		},
+		{
+			"lang_main": "tha",
+			"lang": "tha",
+			"sites": "126894",
+			"total": "131715",
+			"perc_sites": 96.34
+		},
+		{
+			"lang_main": "tha",
+			"lang": "eng",
+			"sites": "4624",
+			"total": "131715",
+			"perc_sites": 3.51
+		},
+		{
+			"lang_main": "tha",
+			"lang": "lat",
+			"sites": "56",
+			"total": "131715",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "tha",
+			"lang": "zho",
+			"sites": "38",
+			"total": "131715",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "tha",
+			"lang": "ara",
+			"sites": "11",
+			"total": "131715",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "tha",
+			"lang": "fra",
+			"sites": "15",
+			"total": "131715",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "tha",
+			"lang": "jpn",
+			"sites": "19",
+			"total": "131715",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "tha",
+			"lang": "ind",
+			"sites": "10",
+			"total": "131715",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "tha",
+			"lang": "hye",
+			"sites": "9",
+			"total": "131715",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "tha",
+			"lang": "deu",
+			"sites": "7",
+			"total": "131715",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "tha",
+			"lang": "spa",
+			"sites": "6",
+			"total": "131715",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tha",
+			"lang": "heb",
+			"sites": "1",
+			"total": "131715",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tha",
+			"lang": "ita",
+			"sites": "2",
+			"total": "131715",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tha",
+			"lang": "msa",
+			"sites": "1",
+			"total": "131715",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tha",
+			"lang": "tur",
+			"sites": "1",
+			"total": "131715",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tha",
+			"lang": "kor",
+			"sites": "4",
+			"total": "131715",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tha",
+			"lang": "lao",
+			"sites": "1",
+			"total": "131715",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tha",
+			"lang": "pol",
+			"sites": "5",
+			"total": "131715",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tha",
+			"lang": "ces",
+			"sites": "1",
+			"total": "131715",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tha",
+			"lang": "dan",
+			"sites": "4",
+			"total": "131715",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tha",
+			"lang": "rus",
+			"sites": "6",
+			"total": "131715",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tuk",
+			"lang": "tuk",
+			"sites": "41",
+			"total": "45",
+			"perc_sites": 91.11
+		},
+		{
+			"lang_main": "tuk",
+			"lang": "eng",
+			"sites": "3",
+			"total": "45",
+			"perc_sites": 6.67
+		},
+		{
+			"lang_main": "tuk",
+			"lang": "lat",
+			"sites": "1",
+			"total": "45",
+			"perc_sites": 2.22
+		},
+		{
+			"lang_main": "tur",
+			"lang": "tur",
+			"sites": "364354",
+			"total": "383786",
+			"perc_sites": 94.94
+		},
+		{
+			"lang_main": "tur",
+			"lang": "eng",
+			"sites": "15569",
+			"total": "383786",
+			"perc_sites": 4.06
+		},
+		{
+			"lang_main": "tur",
+			"lang": "rus",
+			"sites": "816",
+			"total": "383786",
+			"perc_sites": 0.21
+		},
+		{
+			"lang_main": "tur",
+			"lang": "ara",
+			"sites": "805",
+			"total": "383786",
+			"perc_sites": 0.21
+		},
+		{
+			"lang_main": "tur",
+			"lang": "lat",
+			"sites": "543",
+			"total": "383786",
+			"perc_sites": 0.14
+		},
+		{
+			"lang_main": "tur",
+			"lang": "deu",
+			"sites": "211",
+			"total": "383786",
+			"perc_sites": 0.05
+		},
+		{
+			"lang_main": "tur",
+			"lang": "fra",
+			"sites": "172",
+			"total": "383786",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "tur",
+			"lang": "vie",
+			"sites": "114",
+			"total": "383786",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "tur",
+			"lang": "spa",
+			"sites": "132",
+			"total": "383786",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "tur",
+			"lang": "zho",
+			"sites": "71",
+			"total": "383786",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "tur",
+			"lang": "pol",
+			"sites": "88",
+			"total": "383786",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "tur",
+			"lang": "aze",
+			"sites": "65",
+			"total": "383786",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "tur",
+			"lang": "tha",
+			"sites": "62",
+			"total": "383786",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "tur",
+			"lang": "ita",
+			"sites": "48",
+			"total": "383786",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "tur",
+			"lang": "swe",
+			"sites": "49",
+			"total": "383786",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "tur",
+			"lang": "hin",
+			"sites": "41",
+			"total": "383786",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "tur",
+			"lang": "nld",
+			"sites": "42",
+			"total": "383786",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "tur",
+			"lang": "por",
+			"sites": "27",
+			"total": "383786",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "tur",
+			"lang": "vol",
+			"sites": "1",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "tam",
+			"sites": "1",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "jpn",
+			"sites": "16",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "mkd",
+			"sites": "14",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "cat",
+			"sites": "14",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "glg",
+			"sites": "13",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "kan",
+			"sites": "2",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "msa",
+			"sites": "14",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "mya",
+			"sites": "1",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "fin",
+			"sites": "19",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "hrv",
+			"sites": "13",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "sqi",
+			"sites": "13",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "swa",
+			"sites": "13",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "mlt",
+			"sites": "14",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "ell",
+			"sites": "14",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "ukr",
+			"sites": "14",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "slk",
+			"sites": "14",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "ind",
+			"sites": "15",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "srp",
+			"sites": "14",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "heb",
+			"sites": "14",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "tuk",
+			"sites": "1",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "ron",
+			"sites": "14",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "lav",
+			"sites": "14",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "slv",
+			"sites": "14",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "tel",
+			"sites": "2",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "nor",
+			"sites": "14",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "isl",
+			"sites": "14",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "lit",
+			"sites": "14",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "uzb",
+			"sites": "14",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "fas",
+			"sites": "18",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "bel",
+			"sites": "13",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "ces",
+			"sites": "13",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "gle",
+			"sites": "13",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "hye",
+			"sites": "13",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "tat",
+			"sites": "1",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "kat",
+			"sites": "13",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "cym",
+			"sites": "14",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "est",
+			"sites": "13",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "war",
+			"sites": "5",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "fry",
+			"sites": "1",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "hun",
+			"sites": "14",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "tgl",
+			"sites": "13",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "bos",
+			"sites": "1",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "urd",
+			"sites": "15",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "bul",
+			"sites": "13",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "eus",
+			"sites": "13",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "hat",
+			"sites": "13",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "dan",
+			"sites": "14",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "yid",
+			"sites": "1",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "afr",
+			"sites": "14",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "tur",
+			"lang": "kor",
+			"sites": "15",
+			"total": "383786",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "uig",
+			"lang": "uig",
+			"sites": "102",
+			"total": "105",
+			"perc_sites": 97.14
+		},
+		{
+			"lang_main": "uig",
+			"lang": "eng",
+			"sites": "3",
+			"total": "105",
+			"perc_sites": 2.86
+		},
+		{
+			"lang_main": "ukr",
+			"lang": "ukr",
+			"sites": "7496",
+			"total": "9405",
+			"perc_sites": 79.7
+		},
+		{
+			"lang_main": "ukr",
+			"lang": "rus",
+			"sites": "857",
+			"total": "9405",
+			"perc_sites": 9.11
+		},
+		{
+			"lang_main": "ukr",
+			"lang": "eng",
+			"sites": "764",
+			"total": "9405",
+			"perc_sites": 8.12
+		},
+		{
+			"lang_main": "ukr",
+			"lang": "pol",
+			"sites": "114",
+			"total": "9405",
+			"perc_sites": 1.21
+		},
+		{
+			"lang_main": "ukr",
+			"lang": "spa",
+			"sites": "94",
+			"total": "9405",
+			"perc_sites": 1
+		},
+		{
+			"lang_main": "ukr",
+			"lang": "deu",
+			"sites": "27",
+			"total": "9405",
+			"perc_sites": 0.29
+		},
+		{
+			"lang_main": "ukr",
+			"lang": "fra",
+			"sites": "24",
+			"total": "9405",
+			"perc_sites": 0.26
+		},
+		{
+			"lang_main": "ukr",
+			"lang": "ita",
+			"sites": "16",
+			"total": "9405",
+			"perc_sites": 0.17
+		},
+		{
+			"lang_main": "ukr",
+			"lang": "lat",
+			"sites": "9",
+			"total": "9405",
+			"perc_sites": 0.1
+		},
+		{
+			"lang_main": "ukr",
+			"lang": "hun",
+			"sites": "2",
+			"total": "9405",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "ukr",
+			"lang": "hrv",
+			"sites": "2",
+			"total": "9405",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "urd",
+			"lang": "urd",
+			"sites": "4407",
+			"total": "5400",
+			"perc_sites": 81.61
+		},
+		{
+			"lang_main": "urd",
+			"lang": "eng",
+			"sites": "992",
+			"total": "5400",
+			"perc_sites": 18.37
+		},
+		{
+			"lang_main": "urd",
+			"lang": "lat",
+			"sites": "1",
+			"total": "5400",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "uzb",
+			"lang": "uzb",
+			"sites": "3566",
+			"total": "3654",
+			"perc_sites": 97.59
+		},
+		{
+			"lang_main": "uzb",
+			"lang": "eng",
+			"sites": "46",
+			"total": "3654",
+			"perc_sites": 1.26
+		},
+		{
+			"lang_main": "uzb",
+			"lang": "rus",
+			"sites": "26",
+			"total": "3654",
+			"perc_sites": 0.71
+		},
+		{
+			"lang_main": "uzb",
+			"lang": "fra",
+			"sites": "10",
+			"total": "3654",
+			"perc_sites": 0.27
+		},
+		{
+			"lang_main": "uzb",
+			"lang": "ara",
+			"sites": "6",
+			"total": "3654",
+			"perc_sites": 0.16
+		},
+		{
+			"lang_main": "ven",
+			"lang": "ven",
+			"sites": "1",
+			"total": "2",
+			"perc_sites": 50
+		},
+		{
+			"lang_main": "ven",
+			"lang": "eng",
+			"sites": "1",
+			"total": "2",
+			"perc_sites": 50
+		},
+		{
+			"lang_main": "vie",
+			"lang": "vie",
+			"sites": "176132",
+			"total": "183632",
+			"perc_sites": 95.92
+		},
+		{
+			"lang_main": "vie",
+			"lang": "eng",
+			"sites": "6338",
+			"total": "183632",
+			"perc_sites": 3.45
+		},
+		{
+			"lang_main": "vie",
+			"lang": "nld",
+			"sites": "264",
+			"total": "183632",
+			"perc_sites": 0.14
+		},
+		{
+			"lang_main": "vie",
+			"lang": "jpn",
+			"sites": "200",
+			"total": "183632",
+			"perc_sites": 0.11
+		},
+		{
+			"lang_main": "vie",
+			"lang": "deu",
+			"sites": "124",
+			"total": "183632",
+			"perc_sites": 0.07
+		},
+		{
+			"lang_main": "vie",
+			"lang": "tha",
+			"sites": "67",
+			"total": "183632",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "vie",
+			"lang": "por",
+			"sites": "78",
+			"total": "183632",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "vie",
+			"lang": "fra",
+			"sites": "74",
+			"total": "183632",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "vie",
+			"lang": "bul",
+			"sites": "51",
+			"total": "183632",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "vie",
+			"lang": "lat",
+			"sites": "56",
+			"total": "183632",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "vie",
+			"lang": "ara",
+			"sites": "46",
+			"total": "183632",
+			"perc_sites": 0.03
+		},
+		{
+			"lang_main": "vie",
+			"lang": "spa",
+			"sites": "39",
+			"total": "183632",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "vie",
+			"lang": "ben",
+			"sites": "29",
+			"total": "183632",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "vie",
+			"lang": "uzb",
+			"sites": "18",
+			"total": "183632",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "vie",
+			"lang": "pol",
+			"sites": "13",
+			"total": "183632",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "vie",
+			"lang": "rus",
+			"sites": "25",
+			"total": "183632",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "vie",
+			"lang": "tur",
+			"sites": "19",
+			"total": "183632",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "vie",
+			"lang": "kor",
+			"sites": "24",
+			"total": "183632",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "vie",
+			"lang": "ita",
+			"sites": "24",
+			"total": "183632",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "vie",
+			"lang": "zho",
+			"sites": "2",
+			"total": "183632",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "vie",
+			"lang": "war",
+			"sites": "1",
+			"total": "183632",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "vie",
+			"lang": "nor",
+			"sites": "2",
+			"total": "183632",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "vie",
+			"lang": "slk",
+			"sites": "1",
+			"total": "183632",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "vie",
+			"lang": "heb",
+			"sites": "1",
+			"total": "183632",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "vie",
+			"lang": "dan",
+			"sites": "4",
+			"total": "183632",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "vol",
+			"lang": "vol",
+			"sites": "2",
+			"total": "2",
+			"perc_sites": 100
+		},
+		{
+			"lang_main": "xho",
+			"lang": "xho",
+			"sites": "96",
+			"total": "96",
+			"perc_sites": 100
+		},
+		{
+			"lang_main": "yid",
+			"lang": "yid",
+			"sites": "4",
+			"total": "4",
+			"perc_sites": 100
+		},
+		{
+			"lang_main": "yor",
+			"lang": "yor",
+			"sites": "65",
+			"total": "72",
+			"perc_sites": 90.28
+		},
+		{
+			"lang_main": "yor",
+			"lang": "eng",
+			"sites": "7",
+			"total": "72",
+			"perc_sites": 9.72
+		},
+		{
+			"lang_main": "zha",
+			"lang": "zha",
+			"sites": "1",
+			"total": "1",
+			"perc_sites": 100
+		},
+		{
+			"lang_main": "zho",
+			"lang": "zho",
+			"sites": "504258",
+			"total": "521249",
+			"perc_sites": 96.74
+		},
+		{
+			"lang_main": "zho",
+			"lang": "eng",
+			"sites": "9888",
+			"total": "521249",
+			"perc_sites": 1.9
+		},
+		{
+			"lang_main": "zho",
+			"lang": "jpn",
+			"sites": "5297",
+			"total": "521249",
+			"perc_sites": 1.02
+		},
+		{
+			"lang_main": "zho",
+			"lang": "fra",
+			"sites": "577",
+			"total": "521249",
+			"perc_sites": 0.11
+		},
+		{
+			"lang_main": "zho",
+			"lang": "kor",
+			"sites": "366",
+			"total": "521249",
+			"perc_sites": 0.07
+		},
+		{
+			"lang_main": "zho",
+			"lang": "ara",
+			"sites": "188",
+			"total": "521249",
+			"perc_sites": 0.04
+		},
+		{
+			"lang_main": "zho",
+			"lang": "rus",
+			"sites": "130",
+			"total": "521249",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "zho",
+			"lang": "deu",
+			"sites": "123",
+			"total": "521249",
+			"perc_sites": 0.02
+		},
+		{
+			"lang_main": "zho",
+			"lang": "dan",
+			"sites": "32",
+			"total": "521249",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "zho",
+			"lang": "spa",
+			"sites": "42",
+			"total": "521249",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "zho",
+			"lang": "nld",
+			"sites": "54",
+			"total": "521249",
+			"perc_sites": 0.01
+		},
+		{
+			"lang_main": "zho",
+			"lang": "pus",
+			"sites": "1",
+			"total": "521249",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "zho",
+			"lang": "kir",
+			"sites": "5",
+			"total": "521249",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "zho",
+			"lang": "lit",
+			"sites": "1",
+			"total": "521249",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "zho",
+			"lang": "nor",
+			"sites": "20",
+			"total": "521249",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "zho",
+			"lang": "ces",
+			"sites": "1",
+			"total": "521249",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "zho",
+			"lang": "pol",
+			"sites": "19",
+			"total": "521249",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "zho",
+			"lang": "mlg",
+			"sites": "2",
+			"total": "521249",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "zho",
+			"lang": "ind",
+			"sites": "23",
+			"total": "521249",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "zho",
+			"lang": "roh",
+			"sites": "1",
+			"total": "521249",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "zho",
+			"lang": "ukr",
+			"sites": "22",
+			"total": "521249",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "zho",
+			"lang": "hrv",
+			"sites": "1",
+			"total": "521249",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "zho",
+			"lang": "hin",
+			"sites": "19",
+			"total": "521249",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "zho",
+			"lang": "lat",
+			"sites": "17",
+			"total": "521249",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "zho",
+			"lang": "tha",
+			"sites": "14",
+			"total": "521249",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "zho",
+			"lang": "kha",
+			"sites": "1",
+			"total": "521249",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "zho",
+			"lang": "por",
+			"sites": "24",
+			"total": "521249",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "zho",
+			"lang": "sot",
+			"sites": "1",
+			"total": "521249",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "zho",
+			"lang": "tat",
+			"sites": "1",
+			"total": "521249",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "zho",
+			"lang": "xho",
+			"sites": "1",
+			"total": "521249",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "zho",
+			"lang": "tur",
+			"sites": "20",
+			"total": "521249",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "zho",
+			"lang": "hye",
+			"sites": "1",
+			"total": "521249",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "zho",
+			"lang": "kat",
+			"sites": "3",
+			"total": "521249",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "zho",
+			"lang": "msa",
+			"sites": "18",
+			"total": "521249",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "zho",
+			"lang": "ell",
+			"sites": "4",
+			"total": "521249",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "zho",
+			"lang": "swe",
+			"sites": "21",
+			"total": "521249",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "zho",
+			"lang": "ita",
+			"sites": "12",
+			"total": "521249",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "zho",
+			"lang": "heb",
+			"sites": "1",
+			"total": "521249",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "zho",
+			"lang": "urd",
+			"sites": "3",
+			"total": "521249",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "zho",
+			"lang": "snd",
+			"sites": "1",
+			"total": "521249",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "zho",
+			"lang": "vie",
+			"sites": "26",
+			"total": "521249",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "zho",
+			"lang": "mar",
+			"sites": "1",
+			"total": "521249",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "zho",
+			"lang": "ron",
+			"sites": "3",
+			"total": "521249",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "zho",
+			"lang": "kal",
+			"sites": "1",
+			"total": "521249",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "zho",
+			"lang": "ltz",
+			"sites": "3",
+			"total": "521249",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "zho",
+			"lang": "eus",
+			"sites": "1",
+			"total": "521249",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "zho",
+			"lang": "crs",
+			"sites": "1",
+			"total": "521249",
+			"perc_sites": 0
+		},
+		{
+			"lang_main": "zul",
+			"lang": "zul",
+			"sites": "44",
+			"total": "44",
+			"perc_sites": 100
+		}
+	],
+
+	"rows": 1473,
+
+	"statistics":
+	{
+		"elapsed": 0.247013297,
+		"rows_read": 469319,
+		"bytes_read": 20068879
+	}
+}

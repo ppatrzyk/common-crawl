@@ -12,5 +12,5 @@ services:
       - CLICKHOUSE_DEFAULT_ACCESS_MANAGEMENT=1
       - CLICKHOUSE_PASSWORD=clickhouse
     volumes:
-      - ./clickhouse-init.sql:/docker-entrypoint-initdb.d/init-db.sql
+      - ./queries/init-db.sql:/docker-entrypoint-initdb.d/init-db.sql
       - ./data_clickhouse:/var/lib/clickhouse/

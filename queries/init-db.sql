@@ -1,4 +1,4 @@
-CREATE TABLE internet.sites
+CREATE TABLE if not exists internet.sites
 (
     host String,
     host_rev String,
@@ -11,7 +11,7 @@ CREATE TABLE internet.sites
 ENGINE = MergeTree
 ORDER BY (host, lang);
 
-CREATE TABLE internet.hosts
+CREATE TABLE if not exists internet.hosts
 (
     host_id UInt32,
     host_rev String,
@@ -19,7 +19,7 @@ CREATE TABLE internet.hosts
 ENGINE = MergeTree
 ORDER BY (host_id, host_rev);
 
-CREATE TABLE internet.host_links
+CREATE TABLE if not exists internet.host_links
 (
     from_host_id UInt32,
     to_host_id UInt32,

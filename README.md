@@ -35,3 +35,21 @@ TODO create service configs
 rq-dashboard
 rq worker
 ```
+
+4. run transformation queries
+
+```
+cat queries/q1_tld_lang_all.sql | clickhouse-client --database internet --user clickhouse --multiline --multiquery --ask-password > analysis/q1_tld_lang_all.json
+cat queries/q2_secondary_langs.sql | clickhouse-client --database internet --user clickhouse --multiline --multiquery --ask-password > analysis/q2_secondary_langs.json
+cat queries/q3_lang_links.sql | clickhouse-client --database internet --user clickhouse --multiline --multiquery --ask-password > analysis/q3_lang_links.json
+```
+
+TODO
+queries into json based data
+plotly js html analysis terminal css style
+reinstall no neo4, service configs
+pip3 install clickhouse-driver neo4j rq redis requests
+
+```
+python3 -m http.server
+```
