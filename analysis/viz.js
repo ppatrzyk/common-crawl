@@ -1,5 +1,5 @@
 // tld-lang stats
-fetch("/q1_tld_lang_all.json")
+fetch("/q1_tld_top_langs.json")
     .then(res => res.json())
     .then(function (data_raw) {
         console.log(data_raw)
@@ -13,7 +13,7 @@ fetch("/q1_tld_lang_all.json")
             )
             data[tld] = [{
                 x: indices.map(i => data_raw["lang"][i]),
-                y: indices.map(i => data_raw["total"][i]),
+                y: indices.map(i => data_raw["perc_of_tld"][i]),
                 name: "Language",
                 type: "bar"
             }]

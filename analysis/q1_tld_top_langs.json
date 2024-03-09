@@ -1,0 +1,5 @@
+{
+	"tld": ["com", "com", "com", "com", "com", "com", "com", "com", "com", "com", "com", "com", "com", "com", "com", "com", "com", "com", "com", "com"],
+	"lang": ["eng", "jpn", "spa", "fra", "zho", "tur", "ita", "fas", "deu", "ind", "vie", "ara", "rus", "tha", "por", "hin", "kor", "nep", "nld", "ben"],
+	"perc_of_tld": [57.4, 9.69, 4.43, 4.04, 3.87, 2.75, 1.74, 1.68, 1.53, 1.5, 1.34, 1.3, 1.02, 0.97, 0.88, 0.86, 0.72, 0.49, 0.35, 0.31]
+}
