@@ -12,9 +12,39 @@
     <div class="container">
         <header><h1>Languages of the Internet</h1></header>
         <p>Intro content</p>
+        <hr>
+        <header><h2>Most common languages</h2></header>
+        <p>What are the most common languages?</p>
+        <div id="top-langs"></div>
+        <hr>
         <header><h2>Most common languages by tld</h2></header>
         <p>What are the most common languages for each tld?</p>
-        <div id="tld-lang"></div>
+        <div class="form-group">
+            <label for="tld-top-langs-select">Tld:</label>
+            <select id="tld-top-langs-select" name="select"></select>
+        </div>
+        <div id="tld-top-langs"></div>
+        <hr>
+        <header><h2>Secondary languages ranking</h2></header>
+        <p>Average ranking as a secondary language</p>
+        <div id="secondary-lang-prevalence"></div>
+        <hr>
+        <header><h2>Most common secondary languages</h2></header>
+        <p>For sites with given primary language, what are the most common additional languages?</p>
+        <div class="form-group">
+            <label for="secondary-langs">Language:</label>
+            <select id="secondary-langs-select" name="select"></select>
+        </div>
+        <div id="secondary-langs"></div>
+        <hr>
+        <header><h2>Usage as secondary language</h2></header>
+        <p>For each language, this plot depicts on which primary language sites is this language most commonly added</p>
+        <div class="form-group">
+            <label for="secondary-lang-top-primaries-select">Language:</label>
+            <select id="secondary-lang-top-primaries-select" name="select"></select>
+        </div>
+        <div id="secondary-lang-top-primaries"></div>
+        <hr>
     </div>
     <script src="/viz.js" charset="utf-8"></script>
 </body>

@@ -40,8 +40,8 @@ rq worker
 
 ```
 cat queries/q0_create_tables.sql | clickhouse-client --database internet --user clickhouse --multiline --multiquery --ask-password
-cat queries/q1_tld_top_langs.sql | clickhouse-client --database internet --user clickhouse --multiline --multiquery --ask-password > analysis/q1_tld_top_langs.json
-cat queries/q2_tld_diversity.sql | clickhouse-client --database internet --user clickhouse --multiline --multiquery --ask-password > analysis/q2_tld_diversity.json
+cat queries/q1_top_langs.sql | clickhouse-client --database internet --user clickhouse --multiline --multiquery --ask-password > analysis/q1_top_langs.json
+cat queries/q2_tld_top_langs.sql | clickhouse-client --database internet --user clickhouse --multiline --multiquery --ask-password > analysis/q2_tld_top_langs.json
 cat queries/q3_secondary_langs.sql | clickhouse-client --database internet --user clickhouse --multiline --multiquery --ask-password > analysis/q3_secondary_langs.json
 cat queries/q4_secondary_lang_prevalence.sql | clickhouse-client --database internet --user clickhouse --multiline --multiquery --ask-password > analysis/q4_secondary_lang_prevalence.json
 cat queries/q5_secondary_lang_top_primaries.sql | clickhouse-client --database internet --user clickhouse --multiline --multiquery --ask-password > analysis/q5_secondary_lang_top_primaries.json
@@ -51,9 +51,10 @@ cat queries/q6_lang_links.sql | clickhouse-client --database internet --user cli
 TODO
 reinstall no neo4, service configs
 pip3 install clickhouse-driver neo4j rq redis requests
-q6 lang links, return all data and do as graph?
-global top langs query
-
+map with top foreign lang on country tld
+https://github.com/datasets/country-codes
+https://github.com/datasets/language-codes
+decide on "q6" queries - trash
 ```
 python3 -m http.server
 ```
