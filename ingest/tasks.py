@@ -3,9 +3,10 @@ import logging
 import os
 import requests
 
-CLICKHOUSE_CONN_STR = "clickhouse://clickhouse:clickhouse@localhost:9000/internet"
-# adjust this path
-DIR = "/home/piotr/Documents/Github/common-crawl/data_clickhouse/user_files"
+# adjust if needed
+CLICKHOUSE_CONN_STR = "clickhouse://default:clickhouse@localhost:9000/internet"
+# CLICKHOUSE_FILE_DIR = "/home/piotr/Documents/Github/common-crawl/data_clickhouse/user_files"
+CLICKHOUSE_FILE_DIR = "/var/lib/clickhouse/user_files"
 
 QUERIES = {
     "index": """
@@ -19,16 +20,6 @@ QUERIES = {
             content_languages,
             splitByChar(',', assumeNotNull(content_languages))[1]
         from file(%(file)s);
-    """,
-    "vertices": """
-        insert into internet.hosts
-        select *
-        from file(%(file)s, 'TSV', 'host_id UInt32, host_rev String', 'gz')
-    """,
-    "edges": """
-        insert into internet.host_links
-        select *
-        from file(%(file)s, 'TSV', 'from_host_id UInt32, to_host_id UInt32', 'gz')
     """,
 }
 
@@ -49,7 +40,7 @@ def _gen_file_name(segment_path):
     Generate file name from file paths
     """
     file_name = segment_path.split("/")[-1]
-    file_path = os.path.join(DIR, file_name)
+    file_path = os.path.join(CLICKHOUSE_FILE_DIR, file_name)
     return file_name, file_path
 
 def insert(segment_path, query_key):

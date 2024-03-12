@@ -1,0 +1,13 @@
+[Unit]
+Description=rq worker
+Requires=network.target
+After=network.target
+
+[Service]
+Type=simple
+User=piotr
+WorkingDirectory=/home/piotr/crawl/ingest
+ExecStart=/home/piotr/.local/bin/rq worker-pool -n 4
+
+[Install]
+WantedBy=multi-user.target

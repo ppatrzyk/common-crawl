@@ -1,0 +1,20 @@
+<clickhouse>
+    <max_server_memory_usage_to_ram_ratio>0.9</max_server_memory_usage_to_ram_ratio>
+    <listen_host>::</listen_host>
+    <storage_configuration>
+        <disks>
+            <disk_name_1>
+                <path>INSERT_DISK_PATH</path>
+            </disk_name_1>
+        </disks>
+        <policies>
+            <disk_name_1>
+                <volumes>
+                    <main>
+                        <disk>disk_name_1</disk>
+                    </main>
+                </volumes>
+            </disk_name_1>
+        </policies>
+    </storage_configuration>
+</clickhouse>

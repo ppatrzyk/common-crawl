@@ -168,3 +168,43 @@ fetch("/q5_secondary_lang_top_primaries.json")
     .catch(function(err) {
         console.error(err)
     });
+
+// secondary lang stats
+fetch("/q6_langs_countries.json")
+    .then(res => res.json())
+    .then(function (data_raw) {
+        var plot_id = "langs-countries";
+        var default_group = "eng";
+        var {groups, data} = get_traces(data_raw, "lang", "country", "perc_of_tld");
+        Object.keys(data).forEach(group => {
+            var lang_data = data[group]
+            lang_data[0].type = 'choropleth';
+            lang_data[0].z = lang_data[0].y;
+            lang_data[0].locations = lang_data[0].x;
+            lang_data[0].text = lang_data[0].x;
+            lang_data[0].colorbar = {title: {text: "% of sites", font: {size: 16}}};
+        })
+        data_all[plot_id] = data;
+        var layout = {
+            ...layout_opts,
+            title: {text: 'eng prevalence in country-level TLD', font: {size: 16}},
+            geo: {projection: {type: 'robinson'}, showocean: true, oceancolor: 'rgba(180,250,250,0.1)', bgcolor: 'rgba(200,200,200,0.1)'}
+        };
+        var lang_data = data[default_group];
+        Plotly.newPlot(plot_id, lang_data, layout);
+        var dropdown = document.getElementById(`${plot_id}-select`);
+        groups.forEach(group => {
+            var opt = document.createElement('option')
+            opt.value = group
+            opt.innerText = group
+            if (group === default_group) {opt.selected = "selected"}
+            dropdown.appendChild(opt)
+        })
+        dropdown.onchange = function (event) {
+            layout.title.text = `${event.target.value} eng prevalence in country-level TLD`;
+            Plotly.newPlot(plot_id, data_all[plot_id][event.target.value], layout);
+        }
+    })
+    .catch(function(err) {
+        console.error(err)
+    });
