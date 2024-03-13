@@ -11,14 +11,24 @@
 <body class="terminal">
     <div class="container">
         <header><h1>Languages of the Internet</h1></header>
-        <p>Intro content</p>
+        <p>
+            Author: <a href="https://www.patrzyk.me/">Piotr Patrzyk</a> <br>
+            Source code: <a href="https://github.com/ppatrzyk/common-crawl">ppatrzyk/common-crawl</a> <br>
+            Data: <a href="https://www.commoncrawl.org/blog/february-march-2024-crawl-archive-now-available">Common Crawl (2024-10)</a>
+        </p>
+        <p>
+            Analysis of language prevalence in the internet.
+            List of <a href="https://commoncrawl.org/blog/august-2018-crawl-archive-now-available">detected languages</a> was parsed and aggregated by host
+            to determine <em>primary</em> (i.e., the most common one on the host) and <em>secondary</em> language(s) of each website.
+            See <a href="https://github.com/ppatrzyk/common-crawl">ppatrzyk/common-crawl</a> for details on how data was processed.
+        </p>
         <hr>
         <header><h2>Most common languages</h2></header>
-        <p>What are the most common languages?</p>
+        <p>What are the most common languages among all websites? Percentage denotes which part of all websites is written in given language.</p>
         <div id="top-langs"></div>
         <hr>
         <header><h2>Most common languages by tld</h2></header>
-        <p>What are the most common languages for each tld?</p>
+        <p>What are the most common languages for each tld? Same as above but considers data only from specific TLD.</p>
         <div class="form-group">
             <label for="tld-top-langs-select">Tld:</label>
             <select id="tld-top-langs-select" name="select"></select>
@@ -26,27 +36,27 @@
         <div id="tld-top-langs"></div>
         <hr>
         <header><h2>Secondary languages ranking</h2></header>
-        <p>Average ranking as a secondary language</p>
+        <p>Average ranking as a secondary language. Ranking here denotes ordered most common language on a given host. Note, by definition, max ranking for a secondary language is 2.</p>
         <div id="secondary-lang-prevalence"></div>
         <hr>
-        <header><h2>Most common secondary languages</h2></header>
-        <p>For sites with given primary language, what are the most common additional languages?</p>
+        <header><h2>Most common secondary languages by primary language</h2></header>
+        <p>For sites with given primary language, what are the most common secondary language content? Percentage denotes part of secondary (i.e. foreign) language content on given host.</p>
         <div class="form-group">
             <label for="secondary-langs">Language:</label>
             <select id="secondary-langs-select" name="select"></select>
         </div>
         <div id="secondary-langs"></div>
         <hr>
-        <header><h2>Usage as secondary language</h2></header>
-        <p>For each language, this plot depicts on which primary language sites is this language most commonly added</p>
+        <header><h2>Most common primary languages by secondary language</h2></header>
+        <p>For each language, this plot depicts on which primary language hosts is this language most commonly added as secondary one.</p>
         <div class="form-group">
             <label for="secondary-lang-top-primaries-select">Language:</label>
             <select id="secondary-lang-top-primaries-select" name="select"></select>
         </div>
         <div id="secondary-lang-top-primaries"></div>
         <hr>
-        <header><h2>Language prevalence in country-level domain</h2></header>
-        <p>This map depicts how common is given language among sites with country-level TLD (.pl, .de, .fr, etc.)</p>
+        <header><h2>Language prevalence in national domains</h2></header>
+        <p>This map depicts how common is given language among national TLD (ccTLD) sites.</p>
         <div class="form-group">
             <label for="langs-countries-select">Language:</label>
             <select id="langs-countries-select" name="select"></select>
