@@ -18,9 +18,12 @@
         </p>
         <p>
             Analysis of language prevalence in the internet.
-            List of <a href="https://commoncrawl.org/blog/august-2018-crawl-archive-now-available">detected languages</a> was parsed and aggregated by host
-            to determine <em>primary</em> (i.e., the most common one on the host) and <em>secondary</em> language(s) of each website.
-            See <a href="https://github.com/ppatrzyk/common-crawl">ppatrzyk/common-crawl</a> for details on how data was processed.
+            List of languages was parsed and aggregated by host to determine <em>primary</em> (i.e., the most common one on the host) and <em>secondary</em> language(s) of each website.
+            See <a href="https://github.com/ppatrzyk/common-crawl">ppatrzyk/common-crawl</a> for details on how data was queried and processed.
+            Known limitations: 
+            (i) it's unknown whether data source constitutes representative sample of the entire internet, 
+            (ii) languages were determined automatically with unknown reliability [<a href="https://commoncrawl.org/blog/august-2018-crawl-archive-now-available">details</a>],
+            (iii) map visualization was prepared with default <a href="https://github.com/plotly/plotly.js/">plotly</a> map data - depending on your local laws, country borders might be inaccurate.
         </p>
         <hr>
         <header><h2>Most common languages</h2></header>
@@ -28,7 +31,7 @@
         <div id="top-langs"></div>
         <hr>
         <header><h2>Most common languages by tld</h2></header>
-        <p>What are the most common languages for each tld? Same as above but considers data only from specific TLD.</p>
+        <p>What are the most common languages for each tld? Same as above but considers data only from a specific TLD.</p>
         <div class="form-group">
             <label for="tld-top-langs-select">Tld:</label>
             <select id="tld-top-langs-select" name="select"></select>
@@ -40,7 +43,7 @@
         <div id="secondary-lang-prevalence"></div>
         <hr>
         <header><h2>Most common secondary languages by primary language</h2></header>
-        <p>For sites with given primary language, what are the most common secondary language content? Percentage denotes part of secondary (i.e. foreign) language content on given host.</p>
+        <p>For sites with given primary language, what is the most common secondary language content? Percentage denotes what part of all sites on selected primary language hosts is written in that secondary language.</p>
         <div class="form-group">
             <label for="secondary-langs">Language:</label>
             <select id="secondary-langs-select" name="select"></select>
