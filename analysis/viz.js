@@ -59,7 +59,7 @@ function get_map_traces(data_raw, group_key, x_key, y_key) {
 }
 
 // lang stats
-fetch("/q1_top_langs.json")
+fetch("q1_top_langs.json")
     .then(res => res.json())
     .then(function (data_raw) {
         data = [{
@@ -81,7 +81,7 @@ fetch("/q1_top_langs.json")
     });
 
 // tld-lang stats
-fetch("/q2_tld_top_langs.json")
+fetch("q2_tld_top_langs.json")
     .then(res => res.json())
     .then(function (data_raw) {
         var plot_id = "tld-top-langs";
@@ -114,7 +114,7 @@ fetch("/q2_tld_top_langs.json")
     });
 
 // lang stats
-fetch("/q4_secondary_lang_prevalence.json")
+fetch("q4_secondary_lang_prevalence.json")
     .then(res => res.json())
     .then(function (data_raw) {
         data = [{
@@ -137,7 +137,7 @@ fetch("/q4_secondary_lang_prevalence.json")
     });
 
 // secondary lang stats
-fetch("/q3_secondary_langs.json")
+fetch("q3_secondary_langs.json")
     .then(res => res.json())
     .then(function (data_raw) {
         var plot_id = "secondary-langs";
@@ -169,7 +169,7 @@ fetch("/q3_secondary_langs.json")
     });
 
 // secondary lang stats
-fetch("/q5_secondary_lang_top_primaries.json")
+fetch("q5_secondary_lang_top_primaries.json")
     .then(res => res.json())
     .then(function (data_raw) {
         var plot_id = "secondary-lang-top-primaries";
@@ -201,7 +201,7 @@ fetch("/q5_secondary_lang_top_primaries.json")
     });
 
 // secondary lang stats
-fetch("/q6_langs_countries.json")
+fetch("q6_langs_countries.json")
     .then(res => res.json())
     .then(function (data_raw) {
         var plot_id = "langs-countries";
